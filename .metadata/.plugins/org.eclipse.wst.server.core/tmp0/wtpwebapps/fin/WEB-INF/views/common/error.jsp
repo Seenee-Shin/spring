@@ -31,7 +31,7 @@
 <body>
 
     <div id="error-container">
-        <h1>${requestScope.errorMsg}</h1>
+        <h1>${requestScope.errorMessage}</h1>
         
         <span class="error-cnotent-title"> 발생한 예외 : ${e}</span>
         <p>
