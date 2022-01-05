@@ -1,0 +1,7 @@
+package edu.kh.fin.member.model.vo;
+
+public class Member {
+	private String memberId;
+	private String memberPw;
+	private String memberName;
+	private int memberAge;

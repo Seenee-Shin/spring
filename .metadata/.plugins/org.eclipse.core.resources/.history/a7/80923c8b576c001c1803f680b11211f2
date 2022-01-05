@@ -1,0 +1,17 @@
+package edu.kh.fin.member.model.service;
+
+import edu.kh.fin.member.model.vo.Member;
+
+//인터페이스 : 모든 메소드가 추상 
+// 필드 : public static final
+// 메소드 : public abstract(+ default 메소드 가능)
+
+//Service에서 interface를 사용하는 이유 
+//1.프로젝트의 규칙성을 부여하기 위해서 
+//		인터페이스 상속-> 오버라이딩 강제화 -> 상속받은 모든 클래스가 동일한 형태
+
+//2. 유지보수성 
+//		수정에 용이/인터페이스를 상속받은 클래스에 수정코드 작성 -> 부모인터페이스 = 자식객체(다형성/ 업캐스팅); 상태에서 대입되는 객채만 교체
+public interface MemberService {
+	Member login(Member member);
+}

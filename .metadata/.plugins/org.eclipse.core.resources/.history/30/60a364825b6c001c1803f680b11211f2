@@ -1,0 +1,14 @@
+package edu.kh.fin.member.model.service;
+
+import edu.kh.fin.member.model.vo.Member;
+
+@
+public class MemberServiceImpl implements MemberService{
+
+	@Override
+	public Member login(Member member) {
+		return null;
+	}
+	
+
+}
