@@ -76,7 +76,7 @@
 	
 	<!-- 
 		insert 시 resultType은 int로 지정되어있기 때문에 작성 x 
-		parameterType="" 이 기본 자료형이 아닐 경우 별칭(mybatis-config.xml에 적용) 혹은 모든 주소를 작성
+		parameterType="" 이 기본 자료형이 아닐 경우 별칭(mybatis-config.xml에 적용) 혹은 모든 주소를 작성/ 생략가능
 		
 	회원가입 -->						<!-- membervo 별칭  -->	
 	<insert id="signUp" parameterType="Member">
@@ -86,9 +86,41 @@
 		)
 	</insert>
 	
+	<update id="updateMember" parameterType="Member">
+		UPDATE MEMBER SET 
+		MEMBER_PHONE = #{memberPhone},
+		MEMBER_EMAIL = #{memberEmail},
+		MEMBER_ADDR = #{memberAddress}
+		
+		WHERE MEMBER_NO = #{memberNo}
+	</update>
 	
 	
+	<select id="selectSavePw" resultType="string">
+		SELECT MEMBER_PW FROM MEMBER
+		WHERE MEMBER_NO = #{memberNo}
+	</select>
 	
+	<!-- sql에 파라미터 작성법
+		1. 단일자료형 : #{변수명} 변수명이 일치하지 않아도 들어감 
+		2. vo : #{필드명}
+		3. map : #{key값} 해당위치에 value가 작성됨   	
+		4. list/set : 동적 sql인 foreach 태그사용
+	 -->
+	<update id="updatePw" parameterType="map">
+							<!-- parameterType이 map일경우 생략가능 -->			
+		UPDATE MEMBER SET 
+		MEMBER_PW = #{newPw}
+		WHERE MEMBER_NO = #{memberNo}
+		
+	</update>
 	
+	<update id="secessionMember">
+	
+		UPDATE MEMBER SET 
+		STATUS_CD = 2
+		WHERE MEMBER_NO = #{memberNo}
+	
+	</update>
 	
 </mapper>

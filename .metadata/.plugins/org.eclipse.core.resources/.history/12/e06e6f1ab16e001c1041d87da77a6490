@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="memberMapper">
+	<!-- namespace="" 는 mapper태그에 작성  -->
+	
+	
+	<!-- resultMap tag
+		SELECT 조회 결과(result set)의 컬럼명과 옮겨 담을 vo필드명이 같지 않을때 매칭/ select시 자동으로 인식되게함 
+		
+		type : 연겷할 vo (패키지명 + 클래스명 or 별칭)
+		id: 만들어진 resultMap의 이름
+		
+		<id>: PK컬럼 - 필드 매핑
+		<result>: PK이외의 컬럼 - 필드 매핑
+	-->
+	<resultMap type="edu.kh.fin.member.model.vo.Member" id="memberRm">
+		<id property="memberNo" column="MEMBER_NO"/>
+		<result property="memberId" column="MEMBER_ID"/>
+		<result property="memberPw" column="MEMBER_PW"/>
+		<result property="memberName" column="MEMBER_NM"/>
+		<result property="memberPhone" column="MEMBER_PHONE"/>
+		<result property="memberEmail" column="MEMBER_EMAIL"/>
+		<result property="memberAddress" column="MEMBER_ADDR"/>
+		<result property="enrollDate" column="ENROLL_DT"/>
+		<result property="statusCode" column="STATUS_CD"/>
+		<result property="gradeCode" column="GRADE_CD"/>
+	</resultMap>
+	
+	
+	
+	<!-- 
+		SQL 작성 태그 속성
+		 
+		- parameterType :SQL 호출 시 전달 받은 매개변수의 자료형 
+						(자료형은 package+class 명 또는 별칭으로 작성)
+		
+		(SELECT에서만 사용 가능한 속성)
+		- resultType: SELECT 결과 행이 1개인 경우 해당 컬럼 값을 저장할 JAVA 자료형 작성 
+		- resultMap: SELECT 결과 행이 n개인 경우 각 컬럼 값을 vo에 저장하기 위해 <resultMap> id를 작성 
+		
+		mybatis의 #, $
+		"#" : pstmt 
+			=> #{memberId} -> 'user01'(''생성) 문자열로 해석
+			
+		"$" : stmt
+			=> ${memberId} -> user01 sql자체로 해석
+		
+	-->
+	
+	<!-- login  -->
+	<select id="login" parameterType="string" resultMap="memberRm">
+		 SELECT * FROM MEMBER
+		 WHERE MEMBER_ID= #{memberId}
+		 AND STATUS_CD= 1
+		 AND GRADE_CD= 1
+	</select>
+	
+	<!-- ID 중복검사 -->
+	<!-- int자료형의 별칭 : _int
+		 Integer자료형의 별칭 : int
+		 오토 언박싱 박싱을 통해 자동형변환
+	 -->
+	<select id="idDupCheck" parameterType="string" resultType="_int">
+		SELECT COUNT(*) FROM MEMBER 
+		WHERE MEMBER_ID = #{inputId}
+		AND  STATUS_CD != 2
+	</select>
+	
+	<!-- emailDupCheck -->
+	<select id="emailDupCheck" parameterType="string" resultType="_int">
+		SELECT COUNT(*) FROM MEMBER 
+		WHERE MEMBER_EMAIL = #{inputEmail}
+		AND  STATUS_CD != 2
+	</select>
+	
+	
+	<!-- 
+		insert 시 resultType은 int로 지정되어있기 때문에 작성 x 
+		parameterType="" 이 기본 자료형이 아닐 경우 별칭(mybatis-config.xml에 적용) 혹은 모든 주소를 작성/ 생략가능
+		
+	회원가입 -->						<!-- membervo 별칭  -->	
+	<insert id="signUp" parameterType="Member">
+		INSERT INTO MEMBER VALUES(
+			SEQ_MEMBER_NO.NEXTVAL, #{memberId}, #{memberPw},#{memberName},#{memberPhone},
+			#{memberEmail},#{memberAddress},DEFAULT,DEFAULT,DEFAULT
+		)
+	</insert>
+	
+	<update id="updateMember" parameterType="Member">
+		UPDATE MEMBER SET 
+		MEMBER_PHONE = #{memberPhone},
+		MEMBER_EMAIL = #{memberEmail},
+		MEMBER_ADDR = #{memberAddress}
+		
+		WHERE MEMBER_NO = #{memberNo}
+	</update>
+	
+	
+	<select id="selectSavePw" resultType="String">
+		SELECT MEMBER_PW FROM WHERE 
+	</select>
+	
+	
+</mapper>

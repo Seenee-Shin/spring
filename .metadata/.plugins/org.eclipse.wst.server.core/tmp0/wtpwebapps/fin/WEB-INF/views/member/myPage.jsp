@@ -36,7 +36,7 @@
 				
 				<hr>
 				<div class="bg-white rounded shadow-sm container p-3">
-					<form method="POST" action="update" onsubmit="return memberUpdateValidate();" class="form-horizontal" role="form">
+					<form method="POST" action="update" name="updateForm" onsubmit="return memberUpdateValidate();" class="form-horizontal" role="form">
 						<!-- 아이디 -->
 						<div class="row mb-3 form-row">
 							<div class="col-md-3">
@@ -104,7 +104,7 @@
 								<label for="memberEmail">Email</label>
 							</div>
 							<div class="col-md-6">
-								<input type="email" class="form-control" id="email" name="email" value="${loginMember.memberEmail}">
+								<input type="email" class="form-control" id="email" name="updateEmail" value="${loginMember.memberEmail}">
 							</div>
 						</div>
 						<br>

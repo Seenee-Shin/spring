@@ -53,16 +53,21 @@ function validate(){ // 회원 가입 버튼 클릭 시 유효성 검사여부 �
  	const input2 = document.createElement("input")
  	
  	input1.setAttribute("type","hidden")
- 	input2.setAttribute("type","hidden")
- 	
  	input1.setAttribute("name","memberPhone")
+ 	input1.value= phone[0].value+"-"+phone[1].value+"-"+phone[2].value
+
+    document.signUpForm.append(input1)
+ 	
+ 	//주소는 선택적 입력이기 때문에 주소를 입력 했을때만 수행
+    if(address[0].value.trim().length != 0){
+	
+ 	input2.setAttribute("type","hidden")
  	input2.setAttribute("name","memberAddress")
+    input2.value= address[0].value+","+address[1].value+","+address[2].value
     
-    input1.value= phone[0].value+"-"+phone[1].value+"-"+phone[2].value
-    input2.value= address[0].value+"-"+address[1].value+"-"+address[2].value
+   document.signUpForm.append(input2)
+    }
     
-    
-    document.signUpForm.append(input1, input2)
     
     
 }

@@ -1,5 +1,7 @@
 package edu.kh.fin.member.model.service;
 
+import java.util.Map;
+
 import edu.kh.fin.member.model.vo.Member;
 
 // 인터페이스 : 모든 메소드가 추상 
@@ -37,4 +39,10 @@ public interface MemberService {
 	int emailDupCheck(String inputEmail);
 
 	int signUp(Member member);
+
+	int updateMember(Member member);
+
+	int updatePw(Map<String, String> map);
+
+	int secessionMember(Map<String, String> map);
 }

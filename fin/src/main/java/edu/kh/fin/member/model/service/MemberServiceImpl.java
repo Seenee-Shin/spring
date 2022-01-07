@@ -1,6 +1,7 @@
 package edu.kh.fin.member.model.service;
 
 import java.beans.Encoder;
+import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
@@ -101,6 +102,48 @@ public class MemberServiceImpl implements MemberService{
 		 * @Transactional은 RuntimeException일 발생했을 때 rollback을 수행함
 		 *  (exception:코드로 처리가능한 에러)
 		 * */
+	}
+
+	@Transactional(rollbackFor = Exception.class)
+	@Override
+	public int updateMember(Member member) {
+		
+		return dao.updateMember(member);
+	}
+
+	@Override
+	public int updatePw(Map<String, String> map) {
+		//암호화된 비밀번호 
+		String savePw = dao.selectPw(map.get("memberNo"));
+		
+		//DB에 저장된 비밀번호와 입력된 현재 비밀번호 비교 
+		int result =0;
+		
+		if(encoder.matches(map.get("currentPw"), savePw)) {
+			//새로운 비밀번호 암호화 
+			String encPw = encoder.encode(map.get("newPw"));
+			
+			//map의 newPW를 암호화ㅏ된 비밀번호로 덮어쓰기
+			map.put("newPw",encPw);
+			
+			result = dao.updatePw(map);
+		}
+		
+		return result;
+	}
+
+	@Override
+	public int secessionMember(Map<String, String> map) {
+		
+		String checkPw = dao.selectPw(map.get("memberNo"));
+		
+		int result = 0;
+		if(encoder.matches(map.get("currentPw"), checkPw)) {
+			
+			result = dao.secessionMember(map);
+		}
+		
+		return result;
 	}
 	
 	

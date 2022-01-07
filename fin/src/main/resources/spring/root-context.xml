@@ -52,7 +52,8 @@
       <property name="dataSource" ref="dataSource" />
    </bean>
    
-   <!-- @Transactional 어노테이션을 스캔, 인식 -->
+   <!-- @Transactional 어노테이션을 스캔, 인식 
+   		namespaces 에서 tx체크하여 다운로드 후 작성-->
    <tx:annotation-driven/>
    
 </beans>

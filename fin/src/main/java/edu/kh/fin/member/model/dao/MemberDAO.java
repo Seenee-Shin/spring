@@ -1,6 +1,7 @@
 package edu.kh.fin.member.model.dao;
 
 import java.beans.Encoder;
+import java.util.Map;
 
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -58,6 +59,42 @@ public class MemberDAO {
 	public int signUp(Member member) {
 		
 		return sqlSession.insert("memberMapper.signUp", member);
+	}
+
+
+	/** 회원정보 수정
+	 * @param member
+	 * @return
+	 */
+	public int updateMember(Member member) {
+		// TODO Auto-generated method stub
+		return sqlSession.update("memberMapper.updateMember", member);
+	}
+
+
+	/** 암호화된 비밀번호 조회 
+	 * @param memberNo
+	 * @return
+	 */
+	public String selectPw(String memberNo) {
+		// TODO Auto-generated method stub
+		return sqlSession.selectOne("memberMapper.selectSavePw", memberNo);
+	}
+	
+	
+	/** 비빌번호 변경
+	 * @param map
+	 * @return
+	 */
+	public int updatePw(Map<String, String> map) {
+		// TODO Auto-generated method stub
+		return sqlSession.update("memberMapper.updatePw", map);
+	}
+
+
+	public int secessionMember(Map<String, String> map) {
+		return sqlSession.update("memberMapper.secessionMember", map);
+		
 	}
 	
 }
