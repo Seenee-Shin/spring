@@ -52,3 +52,11 @@
 1월 06, 2022 12:28:44.982 [9244:13152:0106/122844.979:ERROR:device_event_log_impl.cc(214)] [12:28:44.979] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 1월 06, 2022 14:01:52.599 [9244:12748:0106/140152.593:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 1월 06, 2022 14:02:02.415 [9244:13152:0106/140202.415:ERROR:device_event_log_impl.cc(214)] [14:02:02.415] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+1월 07, 2022 15:50:01.587 NEW SESSION
+1월 07, 2022 15:50:01.587 [39780:24132:0107/155001.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 07, 2022 15:50:01.588 [39780:24132:0107/155001.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 07, 2022 15:50:01.589 [39780:24132:0107/155001.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 07, 2022 15:50:01.589 [39780:24132:0107/155001.586:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 07, 2022 15:50:01.592 [39780:39640:0107/155001.592:ERROR:device_event_log_impl.cc(214)] [15:50:01.591] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 07, 2022 15:50:01.592 [39780:39640:0107/155001.592:ERROR:device_event_log_impl.cc(214)] [15:50:01.592] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)

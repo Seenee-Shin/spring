@@ -1,0 +1,8 @@
+package edu.kh.fin.board.model.service;
+
+import org.springframework.stereotype.Service;
+
+@Service //Bean등록, 서비스 명시
+public class BoardService {
+
+}

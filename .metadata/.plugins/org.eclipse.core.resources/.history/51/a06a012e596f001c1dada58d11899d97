@@ -1,0 +1,7 @@
+package edu.kh.fin.board.controller;
+
+@Controller
+
+public class BoardController {
+	
+}

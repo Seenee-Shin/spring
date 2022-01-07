@@ -1,0 +1,27 @@
+package edu.kh.fin.board.model.dao;
+
+import org.mybatis.spring.SqlSessionTemplate;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+@Repository //DB와 연결하는 객체임을 명시 + Bean으로 등록
+public class BoardDAO {
+	
+	//마이바티스에서 SQL을 수행하는 객체 
+	@Autowired
+	private SqlSessionTemplate sqlSession; //root-context.xml에 bean으로 등록되어있기 때문에 Autowired가능
+
+	/** 전체 게시글 수 
+	 * @return
+	 */
+	public int getListCount() {
+		//전체 게시글 수 count 
+		int listCount = sqlSession.selectOne("boardMapper.getListCount");
+		
+		//	
+		
+		return new Pagination(listCount, cp);
+	 
+	}
+	
+}

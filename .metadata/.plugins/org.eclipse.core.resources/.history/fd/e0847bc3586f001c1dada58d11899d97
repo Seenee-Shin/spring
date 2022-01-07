@@ -1,0 +1,5 @@
+package edu.kh.fin.board.model.vo;
+
+public class Board {
+
+}

@@ -1,0 +1,10 @@
+package edu.kh.fin.board.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller //컨트롤러임을 ㅇ명시 + bean생성으로 spring에서 관리가능 
+@RequestMapping("/board/*") //
+public class BoardController {
+	
+}
