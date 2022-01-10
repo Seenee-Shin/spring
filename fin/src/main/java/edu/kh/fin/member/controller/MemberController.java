@@ -266,7 +266,8 @@ public class MemberController {
 		
 		// @ModelAttribute 
 		//1.파라미터 set
-		//2.sessionAttribute를 이용해 등록된 Session데이터를 얻어오는 역할 
+		//2.@sessionAttribute를 이용해 등록된 Session데이터를 얻어오는 역할 
+		//  Session에서 key가 일치하는 값을 얻어와 해당 컨트롤러 내에서 사용 가능하게 한다.
 		//  @ModelAttribute("session 키값") 작성
 	
 		//member에 회원번호, 수정된 파라미터 담기 

@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import edu.kh.fin.board.model.vo.Board;
+import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
 
 @Repository //DB와 연결하는 객체임을 명시 + Bean으로 등록
@@ -49,6 +50,15 @@ public class BoardDAO {
 	public Board selectBoard(int boardNo) {
 		
 		return sqlSession.selectOne("boardMapper.selectBoard", boardNo);
+	}
+
+	public int increaseReadCount(int boardNo) {
+		return sqlSession.update("boardMapper.increaseReadCount",boardNo);
+	}
+
+	public List<Category> selectCategory() {
+		// TODO Auto-generated method stub
+		return sqlSession.selectList("boardMapper.selectCategory");
 	}
 	
 }

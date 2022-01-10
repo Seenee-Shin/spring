@@ -40,42 +40,40 @@ $(function() {
 
 });
 
-
-// 각각의 영역에 파일을 첨부 했을 경우 미리 보기가 가능하도록 하는 함수
-function loadImg(value, num) {
-	// 매개변수 value == 클릭된 input 요소
+//파일 선택 -> inpnut요소 백업 객체
+const fileClone = {}
 
 
-	// 파일이 선택된 경우 true
-	if (value.files && value.files[0]) {
+// 각각의 영역에 파일을 첨부 했을 경우(값이 변했을 경우) 미리 보기가 가능하도록 하는 함수
+function loadImg(input, num) {
+
+	if (input.files && input.files[0]) {
+
+    fileClone[num] = $(input).clone() //백업객체에 복제본 추가 
 
 		var reader = new FileReader();
-		// 자바스크립트 FileReader
-		// 웹 애플리케이션이 비동기적으로 데이터를 읽기 위하여 읽을 파일을 가리키는 File 혹은 Blob객체를 이용해 파일의 내용을 읽고 사용자의 컴퓨터에 저장하는 것을 가능하게 해주는 객체
-
-
-		// 선택된 파일 읽기 시작
-		reader.readAsDataURL(value.files[0]);
-		// FileReader.readAsDataURL()
-		// 지정된 내용을 읽기 시작합니다. Blob완료되면 result속성 data:에 파일 데이터를 나타내는 URL이 포함 됩니다.
-
-
-
-		// FileReader.onload
-		// load 이벤트의 핸들러. 이 이벤트는 읽기 동작이 성공적으로 완료 되었을 때마다 발생합니다.
-
-		// 다 읽은 경우
+	
+		reader.readAsDataURL(input.files[0]);
 		reader.onload = function(e) {
-			//console.log(e.target.result);
-			// e.target.result
-			// -> 파일 읽기 동작을 성공한 객체에(fileTag) 올라간 결과(이미지 또는 파일)
 
 			$(".boardImg").eq(num).children("img").attr("src", e.target.result);
 		}
 
-	}
-}
+	} else{
+    //console.log("취소")
 
+    //취소 실행된 input태그에 백업해놓은 복제본 추가 
+    $(input).before(fileClone[num].clone())
+    // 원본 복사본의 복사본을 생성 후 삽입
+    $(input).remove() //원본삭제 (새로운 복제본 추가 후 원복삭제)
+
+
+    //innerHTML, html()
+    // 작성된 문자열ㄹ을 html parser를 이용하여 해석 후 반영
+    // 읽어들이기 전까지는 문자열 내부에 요소가 잇는지 알수 없다
+    // 같은 문장이라도 새로운 요소로 인식
+  }
+}
 
 
 // 수정버튼 클릭 시 동작
@@ -84,3 +82,17 @@ function updateForm(){
 	document.requestForm.method = "POST";
 	document.requestForm.submit();
 }
+
+//이미지 x 버튼 눌렀을때 동작 
+$(".deleteImg").on("click",function(e){
+  //event 발생 객체 : 이벤트에 관련된 모든 객체
+
+  //이벤트 버븥링(감싸고 있는 요소의 이벤트가 전파됨) 을 방지 
+  e.stopPropagation();
+  $(this).prev().removeAttr("src") //미리보기 이미지 삭제 
+
+  //클릭된 x버튼의 인덱스와 같은 인덱스에 위치한 input = type="file" 요소의 value 초기화 
+  const index = $(this).index(".deleteImg")
+
+  $("input[name=images]").eq(index).val("")
+})

@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import edu.kh.fin.board.model.vo.Board;
+import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
 
 //인터페이스를 사용하는 이유 
@@ -20,6 +21,8 @@ public interface BoardService  {
 
 	List<Board> selectBoardList(Pagination pagination);
 
-	Board selectBoard(int boardNo);
+	Board selectBoard(int boardNo, int memberNo);
+
+	List<Category> selectCategory();
 	
 }

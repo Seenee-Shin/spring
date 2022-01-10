@@ -2,20 +2,27 @@ package edu.kh.fin.board.controller;
 
 import java.util.List;
 
+import javax.servlet.http.HttpSession;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.SessionAttributes;
+import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import edu.kh.fin.board.model.service.BoardService;
 import edu.kh.fin.board.model.vo.Board;
+import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
 import edu.kh.fin.common.Util;
+import edu.kh.fin.member.model.vo.Member;
 
 @Controller //컨트롤러임을 ㅇ명시 + bean생성으로 spring에서 관리가능 
 @RequestMapping("/board/*") //
@@ -62,8 +69,14 @@ public class BoardController {
 	@RequestMapping("view/{boardNo}")
 	public String selectBoard(@PathVariable("boardNo") int boardNo,
 								@RequestParam(value = "cp", required= false, defaultValue = "1") int cp,
-								Model md , RedirectAttributes ra) {
-		Board board = service.selectBoard(boardNo);
+								Model md , RedirectAttributes ra, @ModelAttribute("loginMember") Member loginMember, HttpSession session) {
+		int memberNo= 0;
+		
+		if(session.getAttribute("loginMember") != null) {
+			memberNo = ((Member)session.getAttribute("loginMember")).getMemberNo();
+		}
+		
+		Board board = service.selectBoard(boardNo, loginMember.getMemberNo());
 		
 		String path = null;
 		
@@ -80,5 +93,33 @@ public class BoardController {
 		return path;
 		
 		
+	}
+	
+	@RequestMapping(value = "insert", method = RequestMethod.GET)
+	public String boardInsert(Model model) {
+		
+		List<Category> category = service.selectCategory();
+		model.addAttribute("category", category);
+		
+		return "board/boardInsert";
+	}
+	
+	//게시글 작성 
+	@RequestMapping(value = "insert", method = RequestMethod.POST)
+	public String boardInsert(Board board /*커멘드 객체*/, 
+			@RequestParam(value="images", required = false) List<MultipartFile> images, /*upload file*/
+			@ModelAttribute("loginMember")Member loginMember, /*session login info*/
+			HttpSession session /*file 저장 경로 */, RedirectAttributes ra) {
+		
+		/*
+		 * multipartFile 이 제공하는 메소드
+		 * - getOriginalFilename() : 원본 파일명
+		 * - getSize() : 파일 크기
+		 * - getInputStream() : 파일에 대한 입력 스트림
+		 * - transferTo() : **메모리에 저장된 파일과 연결된 MultipartFile객체를 메소드 호툴 시 연결된 메모리 파일을 디스크로 저장
+		 * 
+		 * */
+		
+		return null;
 	}
 }

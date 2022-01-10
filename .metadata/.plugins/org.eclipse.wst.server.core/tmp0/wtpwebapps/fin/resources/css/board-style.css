@@ -138,3 +138,24 @@
 	bottom: 0;
 	right: 0;
 }
+
+/* 이미지 삭제 버튼 */
+.deleteImg {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	background-color: rgba(50, 50, 50, 0.2);
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	line-height: 15px;
+	font-weight: bold;
+	border: none;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.deleteImg:hover {
+	background-color: rgba(50, 50, 50, 0.3);
+}

@@ -18,6 +18,7 @@
 		<typeAlias type="edu.kh.fin.member.model.vo.Member" alias="Member"/>
 		<typeAlias type="edu.kh.fin.board.model.vo.Board" alias="Board"/>
 		<typeAlias type="edu.kh.fin.board.model.vo.BoardImage" alias="BoardImage"/>
+		<typeAlias type="edu.kh.fin.board.model.vo.Category" alias="Category"/>
 		
 		
 	</typeAliases>

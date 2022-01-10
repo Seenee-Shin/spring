@@ -1,9 +1,0 @@
-package edu.kh.fin.board.controller;
-
-import org.springframework.stereotype.Controller;
-
-@Controller //컨트롤러임을 ㅇ명시 + bean생성
-
-public class BoardController {
-	
-}

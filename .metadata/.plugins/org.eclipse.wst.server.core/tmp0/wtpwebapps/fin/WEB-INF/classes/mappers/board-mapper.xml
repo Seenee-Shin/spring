@@ -21,6 +21,8 @@
 		<collection property="imgList" column="BOARD_NO"
 					javaType="java.util.ArrayList" ofType="BoardImage" select="selectBoardImageList"/>
 	</resultMap>
+	<!-- collection : 순차적으로 select구문을 실행하여 imgList에 담음 
+					 0~10(RowBounds수)로 묶어 반환-->
 	
 	
 	
@@ -43,7 +45,11 @@
 		
 	</resultMap>
 	
-
+	<!-- Category VO resultMap -->
+   <resultMap type="Category" id="category_rm">
+      <id    property="categoryCode" column="CATEGOY_CD"/>
+      <result property="categoryName" column="CATEGORY_NM"/>
+   </resultMap>
 	
 	<!-- 게시글 전제 개수 -->
 	<select id="getListCount" resultType="_int">
@@ -86,4 +92,21 @@
 	      WHERE BOARD_NO = #{boardNo}
 	      AND STATUS_CD != 4
 	</select>
+	
+	<!-- 조회수 증가  -->
+	<update id="increaseReadCount">
+		UPDATE BOARD SET 
+		READ_COUNT = READ_COUNT+1 
+		WHERE BOARD_NO = #{boardNo}
+	</update>
+	
+	
+ 
+   <!-- 게시글 삽입 -->
+   <!-- 카테고리 조회 -->
+   <!-- 컬럼이 하나였으면 리절트타입쓰면되는데 DB에 컬럼이 두개라서 RESULTmAP 
+   그래서 위로 가서 result Map을 만든다-->
+   <select id="selectCategory" resultMap="category_rm">
+      SELECT * FROM CATEGORY ORDER BY 1
+   </select>
 </mapper>
