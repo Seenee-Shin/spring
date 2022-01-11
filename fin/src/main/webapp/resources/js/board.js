@@ -24,6 +24,10 @@ function boardValidate() {
 		$("#content").focus();
 		return false;
 	}
+	//유효성 검사 후 문제가 없다면 input[name=deleteImages]요소의 value값으로 deleteImage 배열을 추가 
+	$("input[name=deleteImages]").val(deleteImages)
+	
+	//document.querySelector("input[name=deleteImages]").value = deleteImages; 
 }
 
 // 이미지 영역을 클릭할 때 파일 첨부 창이 뜨도록 설정하는 함수
@@ -42,6 +46,11 @@ $(function() {
 
 //파일 선택 -> inpnut요소 백업 객체
 const fileClone = {}
+
+//삭제된 이미지 레벨 저장 배열 선언(x버튼 클릭시)
+//-> 배열을 input태그 value로 추가하면 요소1, 요소2 형태의 문자열로 변환됨
+const deleteImages = [0,1,2]
+
 
 
 // 각각의 영역에 파일을 첨부 했을 경우(값이 변했을 경우) 미리 보기가 가능하도록 하는 함수
@@ -78,7 +87,7 @@ function loadImg(input, num) {
 
 // 수정버튼 클릭 시 동작
 function updateForm(){
-	document.requestForm.action = "updateForm";
+	document.requestForm.action = "../updateForm";
 	document.requestForm.method = "POST";
 	document.requestForm.submit();
 }
@@ -95,4 +104,10 @@ $(".deleteImg").on("click",function(e){
   const index = $(this).index(".deleteImg")
 
   $("input[name=images]").eq(index).val("")
+  
+  
+  if(deleteImages.indexOf(index) == -1){ //index번호(imageLevel)가 존재 하지 않을때
+  //deleteImages 배열에 삭제된 이미지의 레벨을 추가 
+  deleteImages.push(index);
+  }
 })

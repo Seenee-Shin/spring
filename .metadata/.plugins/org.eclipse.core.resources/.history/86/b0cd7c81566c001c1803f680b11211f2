@@ -1,5 +1,0 @@
-package edu.kh.fin.member.model.service;
-
-public interface MemberService {
-
-}

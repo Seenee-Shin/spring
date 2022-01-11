@@ -1,8 +1,0 @@
-package edu.kh.fin.member.model.service;
-
-//인터페이스 : 모든 메소드가 추상 
-// 필드 : public static final
-// 메소두 : public abstract
-public interface MemberService {
-
-}

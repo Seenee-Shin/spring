@@ -47,7 +47,7 @@
 	
 	<!-- Category VO resultMap -->
    <resultMap type="Category" id="category_rm">
-      <id    property="categoryCode" column="CATEGOY_CD"/>
+      <id    property="categoryCode" column="CATEGORY_CD"/>
       <result property="categoryName" column="CATEGORY_NM"/>
    </resultMap>
 	
@@ -109,4 +109,58 @@
    <select id="selectCategory" resultMap="category_rm">
       SELECT * FROM CATEGORY ORDER BY 1
    </select>
+   
+   <!-- 
+   게시글 insert 
+   
+  	 - useGeneratedKeys : JDBC의 getGeneratedKeys()(: DB 내부적으로 생성한 키(시퀀스)를 받음)메소드를 사용하도록 설정 (기본값 false)
+  	 
+  	 <selectKey> : insert, update 후 사용된 시퀀스(키) 값을 받환하는 태그 -> insert, update 태그 내에서만 사용가능 
+  	 
+  	     keyProperty : selectKey구문의 결과가 셋팅될 대상 프로퍼티(필드값).
+         keyColumn :  리턴되는 결과셋의 칼럼명은 프로퍼티에 일치. 여러개의 칼럼을 사용한다면 칼럼명의 목록은 콤마를 사용해서 구분한다.
+         resultType : 결과타입. 생략가능. String을 포함하여 키로 사용될 수 있는 타입을 허용.
+         order : BEFORE 또는 AFTER를 셋팅할 수 있다. BEFORE로 설정하면 키를 먼저 조회하고 그 값을 keyProperty 에 셋팅한 뒤 insert 구문을 실행한다. AFTER로 설정하면 insert 구문을 실행한 뒤 selectKey 구문을 실행한다. 오라클과 같은 데이터베이스에서는 insert구문 내부에서 일관된 호출형태로 처리한다.
+         statementType : 위 내용과 같다. 마이바티스는 Statement, PreparedStatement 그리고 CallableStatement을 매핑하기 위해 STATEMENT, PREPARED 그리고 CALLABLE 구문타입을 지원한다.
+         [출처. 마이바티스 공식 홈페이지]
+   -->
+      <insert id="insertBoard" useGeneratedKeys="true" parameterType="Board">
+      
+	      <!-- 
+	         INSERT 구문이 수행되지 전에 <selectKey> 내부 SELECT를 수행해서
+	         조회 결과인 int형 값을 파라미터로 전달 받은 Board 객체의 boardNo 필드에 저장
+	       -->
+	       
+	      <selectKey order="BEFORE" resultType="_int" keyProperty="boardNo">
+	         SELECT SEQ_BOARD_NO.NEXTVAL FROM DUAL
+	      </selectKey>
+	      
+	      INSERT INTO BOARD(BOARD_NO, BOARD_TITLE, BOARD_CONTENT, MEMBER_NO, CATEGORY_CD)
+	      VALUES(#{boardNo}, #{boardTitle}, #{boardContent}, #{memberNo}, #{categoryCode})
+	      
+   	  </insert>
+   
+   <!-- insert image List -->
+   <!-- 파일 정보 List 반복 삽입  -->
+   <!-- 동적 SQL : 마이바티스의 핵심기능 sql수행중 조건, 반복, 특정 구문 추가등을 동적으로 수행 할 수 있음  
+   		foreach 
+   		-collection : 반복 접근할 컬렉션 형태의 파라미터 
+   		-item : collection에서 반복 시 마다 순차적으로 하나씩 접근할 요소
+   		-open : foreach시작 전 추가할 구문 
+   		-close : 종료후 추가할 구문
+   		-separator : 반복시 마다 추가할 구분자 
+   -->
+   <insert id="insertImgList" parameterType="list">
+   	INSERT INTO BOARD_IMG
+   	SELECT SEQ_IMG_NO.NEXTVAL, A.* FROM
+	   <foreach collection="list" item="img" open="(" close=") A" separator=" UNION ALL ">
+			SELECT #{img.imgPath} IMG_PATH,
+				 #{img.imgName} IMG_NM,
+				 #{img.imgOriginal} IMG_ORIGINAL,
+				 #{img.imgLevel} IMG_LEVEL,
+				 #{img.boardNo} BOARD_NO
+			FROM DUAL
+	   </foreach>
+   </insert>
+   
 </mapper>

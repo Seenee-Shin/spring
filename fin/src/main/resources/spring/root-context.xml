@@ -72,10 +72,11 @@
    		maxInMemorySize : disc에 저장되지 않고 memory에 유지하는 최대 용량 (byte 단위, 기본값 = 10240byte(10kb))
    						 지정된 용량을 초과할 경우 파일 자동 저장
    						 
-   						 multipartRequest : 생성됨과 종시에 파일 저장 (실패해도 파일 저장)
-   						 multipartResolver : DB를 수행하여도 memory에 파일 저장. DB성공 시에만 파일 저장 
+   						 multipartRequest : 생성됨과 동시에 파일 저장 (실패해도 파일 저장)
+   						 multipartResolver : DB를 수행하여도 memory에 파일 저장. DB 입력 성공 시에만 파일 저장 
    		 -->
    </bean>
+   
    
    
    

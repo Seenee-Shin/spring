@@ -142,7 +142,7 @@
 	
 	<form action="#" method="POST" name="requestForm">
 		<input type="hidden" name="cp" value="${param.cp }">
-		<input type="hidden" name="no" value="${param.no }">
+		<input type="hidden" name="boardNo" value="${board.boardNo}">
 	</form>
 	
 	

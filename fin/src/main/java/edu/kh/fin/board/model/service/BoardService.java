@@ -3,6 +3,7 @@ package edu.kh.fin.board.model.service;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
 import edu.kh.fin.board.model.vo.Board;
 import edu.kh.fin.board.model.vo.Category;
@@ -24,5 +25,14 @@ public interface BoardService  {
 	Board selectBoard(int boardNo, int memberNo);
 
 	List<Category> selectCategory();
+
+	/** 게시글 삽입
+	 * @param board
+	 * @param images
+	 * @param webPath
+	 * @param serverPath
+	 * @return
+	 */
+	int insertBoard(Board board, List<MultipartFile> images, String webPath, String serverPath);
 	
 }

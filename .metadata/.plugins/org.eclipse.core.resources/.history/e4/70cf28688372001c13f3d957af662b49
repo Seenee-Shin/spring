@@ -1,0 +1,12 @@
+package edu.kh.fin.board.model.exception;
+
+public class InsertBoardFailException extends RuntimeException {
+
+	public  public InsertBoardFailException() {
+		super("게시글 삽입 과정에 문제발생");
+	}
+	public  public InsertBoardFailException(String mesaage) {
+		super(message);
+	}
+	
+}

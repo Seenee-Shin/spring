@@ -1,8 +1,0 @@
-package edu.kh.fin.board.model.dao;
-
-import org.springframework.stereotype.Repository;
-
-@Repository //DB와 연결하는 객체임을 명시 + Bean으로 등록
-public class BoardDAO {
-
-}
