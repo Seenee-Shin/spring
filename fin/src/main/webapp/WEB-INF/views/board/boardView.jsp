@@ -123,9 +123,10 @@
 				<div>
 					<c:if test="${loginMember.memberNo == board.memberNo }">
 						<%-- 로그인된 회원과 해당 글 작성자가 같은 경우에만 수정, 삭제 버튼 노출--%>
-						<button id="deleteBtn" class="btn btn-primary float-right mr-2">삭제</button> 
+						<button id="deleteBtn" class="btn btn-primary float-right mr-2"onclick="deleteBoard();">삭제</button> 
 						<button id="updateBtn" class="btn btn-primary float-right mr-2" onclick="updateForm();">수정</button> 
 					</c:if>
+					
 					
 					
 					<a href="list?cp=${param.cp }" class="btn btn-primary float-right mr-2">목록으로</a>

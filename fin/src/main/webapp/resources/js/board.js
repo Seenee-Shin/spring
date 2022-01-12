@@ -25,9 +25,9 @@ function boardValidate() {
 		return false;
 	}
 	//유효성 검사 후 문제가 없다면 input[name=deleteImages]요소의 value값으로 deleteImage 배열을 추가 
-	$("input[name=deleteImages]").val(deleteImages)
+	//$("input[name=deleteImages]").val(deleteImages)
 	
-	//document.querySelector("input[name=deleteImages]").value = deleteImages; 
+	document.querySelector("input[name=deleteImages]").value = deleteImages; 
 }
 
 // 이미지 영역을 클릭할 때 파일 첨부 창이 뜨도록 설정하는 함수
@@ -39,7 +39,7 @@ $(function() {
 
 
 		$("[type=file]").eq(index).click();
-		// 타입이 file인 요소 중 몇번째 인덱스 요소를 선택하여 클릭해라
+		// 타입이 file인 요소 중 몇번째 인덱스 요소를 선택하여 클릭
 	});
 
 });
@@ -49,7 +49,7 @@ const fileClone = {}
 
 //삭제된 이미지 레벨 저장 배열 선언(x버튼 클릭시)
 //-> 배열을 input태그 value로 추가하면 요소1, 요소2 형태의 문자열로 변환됨
-const deleteImages = [0,1,2]
+const deleteImages = []
 
 
 
@@ -59,8 +59,13 @@ function loadImg(input, num) {
 	if (input.files && input.files[0]) {
 
     fileClone[num] = $(input).clone() //백업객체에 복제본 추가 
-
-		var reader = new FileReader();
+    
+	    //deleteImage 배열에 같은 번호가 존재하는지 확인
+		if(deleteImages.indexOf(num) != -1){
+			
+			//배열.splice(시작인덱스, 제거할 개수) : 배열내 지정 인덱스부터 지정된 갯수만큰 요소 제거 
+		}
+			var reader = new FileReader();
 	
 		reader.readAsDataURL(input.files[0]);
 		reader.onload = function(e) {
@@ -92,6 +97,14 @@ function updateForm(){
 	document.requestForm.submit();
 }
 
+function deleteBoard(){
+	if(confirm("정말 삭제하시겠습니까?")){
+	document.requestForm.action = "../delete";
+	document.requestForm.method = "POST";
+	document.requestForm.submit();
+	}
+}
+
 //이미지 x 버튼 눌렀을때 동작 
 $(".deleteImg").on("click",function(e){
   //event 발생 객체 : 이벤트에 관련된 모든 객체
@@ -111,3 +124,5 @@ $(".deleteImg").on("click",function(e){
   deleteImages.push(index);
   }
 })
+
+

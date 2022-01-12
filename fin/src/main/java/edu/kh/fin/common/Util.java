@@ -45,4 +45,10 @@ public class Util {
 	      return content.replaceAll("(\r\n|\r|\n|\n\r)", "<br>");
 	   }
 	
+	   
+	   // 개행 문자 변경 메소드
+	   public static String changeNewLine2(String content) {
+		   return content.replaceAll("<br>", "\r\n");
+	   }
+	   
 }

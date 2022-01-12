@@ -1,9 +1,0 @@
-package edu.kh.fin.member.model.dao;
-
-import org.springframework.stereotype.Repository;
-
-//@Repository :  Persistance layer, 영속성
-@Repository
-public class MemberDAO {
-
-}

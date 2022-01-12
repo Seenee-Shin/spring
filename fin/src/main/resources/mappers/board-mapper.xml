@@ -163,4 +163,44 @@
 	   </foreach>
    </insert>
    
+   
+ 	<update id="updateBoard" parameterType="Board">
+      UPDATE BOARD SET 
+      BOARD_TITLE = #{boardTitle},
+      BOARD_CONTENT = #{boardContent},
+      CATEGORY_CD = #{categoryCode},
+      MODIFY_DT = SYSDATE
+      WHERE BOARD_NO = #{boardNo}
+   </update>
+   
+   <!-- 수정후 삭제된 메세지 delete -->
+   <!-- 파라미터 타입이 map인 경우 #{key} 로 value 불러오기-->
+   <delete id="deleteImages" parameterType="map">
+   		DELETE FROM BOARD_IMG
+		WHERE BOARD_NO = #{boardNo}
+		AND IMG_LEVEL IN (${deleteImages})
+   </delete>
+   
+   <!-- 이미지 업데이트 -->
+   <update id="updateBoardImage">
+   		UPDATE BOARD_IMG SET
+   		IMG_PATH = #{imgPath},
+   		IMG_NM = #{imgName},
+   		IMG_ORIGINAL = #{imgOriginal}
+   		WHERE BOARD_NO = #{boardNo}
+   		AND IMG_LEVEL =  #{imgLevel}
+   </update>
+   
+   <!-- 새로운 이미지 DB 저장 -->
+  	<insert id="insertBoardImage">
+  		INSERT INTO BOARD_IMG VALUES
+  		(SEQ_IMG_NO.NEXTVAL, #{imgPath}, #{imgName}, #{imgOriginal}, #{imgLevel}, #{boardNo})
+  	</insert>
+  	
+  	<!-- 게시글 삭제 -->
+  	<update id="deleteBoard">
+  		UPDATE BOARD SET
+  		STATUS_CD = 4
+  		WHERE BOARD_NO = #{boardNo}
+  	</update>
 </mapper>

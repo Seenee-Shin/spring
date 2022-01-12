@@ -1,6 +1,7 @@
 package edu.kh.fin.board.model.dao;
 
 import java.util.List;
+import java.util.Map;
 
 import org.apache.ibatis.session.RowBounds;
 import org.mybatis.spring.SqlSessionTemplate;
@@ -79,6 +80,35 @@ public class BoardDAO {
 
 	public int insertImgList(List<BoardImage> imgList) {
 		return sqlSession.insert("boardMapper.insertImgList", imgList);
+	}
+
+	/** 게시글 수정 
+	 * @param board
+	 * @return result
+	 */
+	public int updateBoard(Board board) {
+		// TODO Auto-generated method stub
+		return sqlSession.update("boardMapper.updateBoard", board);
+	}
+
+	public int deleteImages(Map<String, Object> map) {
+		// TODO Auto-generated method stub
+		return sqlSession.delete("boardMapper.deleteImages", map);
+	}
+
+	public int updateBoardImage(BoardImage img) {
+		// TODO Auto-generated method stub
+		return sqlSession.update("boardMapper.updateBoardImage", img);
+	}
+
+	public int insertBoardImage(BoardImage img) {
+		// TODO Auto-generated method stub
+		return sqlSession.insert("boardMapper.insertBoardImage", img);
+	}
+
+	public int deleteBaord(int boardNo) {
+		// TODO Auto-generated method stub
+		return sqlSession.insert("boardMapper.deleteBoard",boardNo);
 	}
 	
 }
