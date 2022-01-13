@@ -20,9 +20,12 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import edu.kh.fin.board.model.service.BoardService;
+import edu.kh.fin.board.model.service.ReplyService;
 import edu.kh.fin.board.model.vo.Board;
 import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
+import edu.kh.fin.board.model.vo.Reply;
+import edu.kh.fin.board.model.vo.Search;
 import edu.kh.fin.common.Util;
 import edu.kh.fin.member.model.vo.Member;
 
@@ -37,21 +40,37 @@ public class BoardController {
 	@Autowired
 	private BoardService service;
 	
-
+	@Autowired //만들어진 Bean 의존성 주입
+	private ReplyService replyService;
 	
+
+	//게시글 목록 조회
 	@RequestMapping("list")	  		 // cp(페이징 파라미터) 전달받기 
 	public String selectBoardList(@RequestParam(value="cp", required = false, defaultValue = "1") int cp,
-								  Model md) {
+								  Model md, Search search) {
 		
-		//페이징 처리용 객체 Pagination 생성 
-		//1.전체게시글 수 count + 페이징에 필요한 값 계산 
-		Pagination pagination = service.getPagination(cp);
+		Pagination pagination = null;
+		List<Board> boardList = null;
 		
-		//System.out.println(pagination);
+		//검색 값이 있는 경우
+		if(search.getCt() != null || ( search.getSv() != null && !search.getSv().trim().equals("")) ) {
 		
-		//지정된 범위의 게시글 목록 조회 
-		List<Board> boardList = service.selectBoardList(pagination);
+			//검색 조건에 맞는 전체 게시글 수 count + 페이징 처리 계산
+			pagination = service.getPagination(cp,search);
+			
+			boardList = service.selectBoardList(pagination, search);	
+			
+		} else {
+			//페이징 처리용 객체 Pagination 생성 
+			//1.전체게시글 수 count + 페이징에 필요한 값 계산 
+			pagination = service.getPagination(cp);
+			
+			//지정된 범위의 게시글 목록 조회 
+			boardList = service.selectBoardList(pagination);
+		}
 		
+		List<Category> category = service.selectCategory();
+		md.addAttribute("category", category);
 		md.addAttribute("pagination", pagination);
 		md.addAttribute("boardList", boardList);
 		
@@ -71,19 +90,32 @@ public class BoardController {
 	@RequestMapping("view/{boardNo}")
 	public String selectBoard(@PathVariable("boardNo") int boardNo,
 								@RequestParam(value = "cp", required= false, defaultValue = "1") int cp,
-								Model md , RedirectAttributes ra, @ModelAttribute("loginMember") Member loginMember, HttpSession session) {
+								Model md , RedirectAttributes ra, HttpSession session
+								/* @ModelAttribute("loginMember") Member loginMember*/) {
+		// @SessionAttributes 
+		// 1) Model.addAttribute(K,V) 수행 시 K가 일치하는 값을 Request -> Session scope로 이동
+		// 2) Model.addAttribute(K,V) Session으로 이동한 값을 얻어와
+		//		-> @ModelAttribute("K")에 전달
+		
 		int memberNo= 0;
 		
+		//session에 login member가 있을 경우 
 		if(session.getAttribute("loginMember") != null) {
 			memberNo = ((Member)session.getAttribute("loginMember")).getMemberNo();
 		}
 		
-		Board board = service.selectBoard(boardNo, loginMember.getMemberNo());
+		Board board = service.selectBoard(boardNo,memberNo);
 		
 		String path = null;
 		
 		//조회 결과에 따른 처리
-		if(board != null) { //게시글이 존재할 때 
+		if(board != null) { 
+			//댓글 목록 조회 Service호출 
+			List<Reply> rList = replyService.selectList(boardNo);
+			
+			md.addAttribute("rList", rList);
+			
+			//게시글이 존재할 때 
 			md.addAttribute("board",board);
 			path = "board/boardView";
 			
@@ -213,6 +245,13 @@ public class BoardController {
 		}
 		return "redirect:"+path;
 	}
+	
+	
+	//
+	
+	
+	
+	
 }
 
 

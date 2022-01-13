@@ -1,8 +1,0 @@
-package edu.kh.fin.common;
-
-public class Util {
-	//sweetalert 세팅용 메소드
-	public static void swalSetMessage() {
-		
-	}
-}

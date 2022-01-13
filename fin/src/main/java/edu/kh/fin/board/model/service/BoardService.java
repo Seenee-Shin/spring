@@ -8,6 +8,7 @@ import org.springframework.web.multipart.MultipartFile;
 import edu.kh.fin.board.model.vo.Board;
 import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
+import edu.kh.fin.board.model.vo.Search;
 
 //인터페이스를 사용하는 이유 
 //1.규칙성
@@ -44,5 +45,14 @@ public interface BoardService  {
 	 * @return result int
 	 */
 	int deleteBoard(int boardNo);
+
+	/*검색 조건에 맞는 전체 게시글 수 count + 페이징 처리 계산
+	 * @param cp
+	 * @param search
+	 * @return
+	 */
+	Pagination getPagination(int cp, Search search);
+
+	List<Board> selectBoardList(Pagination pagination, Search search);
 	
 }

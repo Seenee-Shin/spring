@@ -20,6 +20,7 @@ import edu.kh.fin.board.model.vo.Board;
 import edu.kh.fin.board.model.vo.BoardImage;
 import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
+import edu.kh.fin.board.model.vo.Search;
 import edu.kh.fin.common.Util;
 
 @Service
@@ -42,22 +43,25 @@ public class BoardServiceImpl implements BoardService{
 		return dao.selectBoardList(pagination);
 	}
 
-	@Override
-	public Board selectBoard(int boardNo, int memberNo) {
-		Board board = dao.selectBoard(boardNo);
-		
-		if(board != null && board.getMemberNo() != memberNo) { //게시글이 있음 + 보고있는 게시글의 작성자가 로그인한 멤버가 아닐경우
-			//조회수 증가 
-			int result = dao.increaseReadCount(boardNo);
-			
-			if(result > 0) {
-				//DB와 미리 조회된 board의 readCount 동기화
-				board.setReadCount(board.getReadCount()+1);
-			}
-		}
-		
-		return dao.selectBoard(boardNo);
-	}
+   @Override
+   public Board selectBoard(int boardNo, int memberNo) {
+      
+      Board board = dao.selectBoard(boardNo);
+      
+      // 게시글 상세조회 성공 && 게시글 작성자(board.getMemberNo()) != 회원번호 
+      if(board != null && board.getMemberNo() != memberNo ) {
+         
+         // 조회수 증가
+         int result = dao.increaseReadCount(boardNo); // 몇번 글의 조회수를 증가하는지 알아야하기에 boardNo가 넘어간다
+      
+         // 조회 수 증가 성공 시
+         // 미리 조회된 board의 readCount를 +1 (DB 동기화)
+         if(result > 0) {
+            board.setReadCount( board.getReadCount() + 1);
+         }
+      }
+      return board;
+   }
 
 	@Override
 	public List<Category> selectCategory() {
@@ -271,6 +275,20 @@ public class BoardServiceImpl implements BoardService{
 	public int deleteBoard(int boardNo) {
 		
 		return dao.deleteBaord(boardNo);
+	}
+
+	@Override
+	public Pagination getPagination(int cp, Search search) {
+		
+		int searchListCount = dao.searchListCount(search);
+		
+		return new Pagination(searchListCount, cp);
+	}
+
+	@Override
+	public List<Board> selectBoardList(Pagination pagination, Search search) {
+		// TODO Auto-generated method stub
+		return dao.selectBoardList(pagination, search);
 	}	
 	
 

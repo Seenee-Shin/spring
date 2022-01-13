@@ -1,5 +1,0 @@
-package edu.kh.fin.board.model.exception;
-
-public class InsertBoardFailException {
-
-}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="replyMapper">
+
+	<resultMap type="Reply" id="replyRm">
+	  <id property="replyNo" column="REPLY_NO"/>
+      
+      <result property="replyContent" column="REPLY_CONTENT"/>
+      <result property="replyCreateDate" column="REPLY_CREATE_DT"/>
+      <result property="memberNo" column="MEMBER_NO"/>
+      <result property="boardNo" column="BOARD_NO"/>
+      <result property="statusCode" column="STATUS_CD"/>
+      <result property="memberName" column="MEMBER_NM"/>
+      <result property="parentReplyNo" column="PARENT_REPLY_NO"/>
+      
+	</resultMap>
+	
+	<select id="selectList"  resultMap="replyRm">
+		SELECT LEVEL,R.* FROM 
+		  (SELECT REPLY_NO, REPLY_CONTENT, TO_CHAR(REPLY_CREATE_DT, 'YYYY"년" MM"월" DD"일" HH24"시" MI"분" SS"초"') REPLY_CREATE_DT,
+		        BOARD_NO, REPLY.STATUS_CD, PARENT_REPLY_NO,MEMBER_NO,MEMBER_NM
+		  FROM REPLY
+		  JOIN MEMBER USING(MEMBER_NO)
+		  WHERE BOARD_NO = #{boardNo} AND REPLY.STATUS_CD = 1)R
+		
+		START WITH PARENT_REPLY_NO IS NULL
+		CONNECT BY PRIOR REPLY_NO = PARENT_REPLY_NO
+		ORDER SIBLINGS BY REPLY_NO
+	</select>
+	
+	<!-- 댓글 INSERT -->
+	<insert id="insertReply">
+		INSERT INTO REPLY 
+		VALUES(SEQ_REPLY_NO.NEXTVAL, #{replyContent},DEFAULT, #{boardNo},#{memberNo},DEFAULT,
+		
+				<if test="parentReplyNo == 0">
+					NULL
+				</if>
+				
+				<if test="parentReplyNo != 0">
+				#{parentReplyNo} 
+				</if>
+				
+				)
+	</insert>
+	<!-- fk : 부모 컬럼의 값 or null
+		#{parentReplyNo}을 null 로 바꾸어 주어야함 -> REPLY_NO에는 0이 없기 때문에 -->
+ 	
+</mapper>

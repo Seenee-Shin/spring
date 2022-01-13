@@ -12,6 +12,7 @@ import edu.kh.fin.board.model.vo.Board;
 import edu.kh.fin.board.model.vo.BoardImage;
 import edu.kh.fin.board.model.vo.Category;
 import edu.kh.fin.board.model.vo.Pagination;
+import edu.kh.fin.board.model.vo.Search;
 
 @Repository //DB와 연결하는 객체임을 명시 + Bean으로 등록
 public class BoardDAO {
@@ -109,6 +110,25 @@ public class BoardDAO {
 	public int deleteBaord(int boardNo) {
 		// TODO Auto-generated method stub
 		return sqlSession.insert("boardMapper.deleteBoard",boardNo);
+	}
+
+	/**  전체 검색글 개수
+	 * @param search
+	 * @return
+	 */
+	public int searchListCount(Search search) {
+		// TODO Auto-generated method stub
+		return sqlSession.selectOne("boardMapper.searchListCount", search);
+	}
+
+	public List<Board> selectBoardList(Pagination pagination, Search search) {
+		
+		int offset = (pagination.getCurrentPage() -1) * pagination.getLimit();
+		
+		RowBounds rowb = new RowBounds(offset, pagination.getLimit());
+		
+		// TODO Auto-generated method stub
+		return sqlSession.selectList("boardMapper.selectSearchBoardList", search, rowb);
 	}
 	
 }

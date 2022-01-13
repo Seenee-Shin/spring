@@ -128,13 +128,23 @@
 					</c:if>
 					
 					
+							<!-- 파라미터 중 sv가있으면 변수 생성 -->
+					<c:if test="${!empty param.sv }">
+						<c:set var="s" value="&sk=${param.sk}$sv=${param.sv}"/>
+					</c:if>
 					
-					<a href="list?cp=${param.cp }" class="btn btn-primary float-right mr-2">목록으로</a>
+							<!-- 파라미터 중 ct가있으면 변수 생성 -->
+					<c:if test="${!empty param.ct }">
+						<c:set var="c" value="&ct=${param.ct}"/>
+					</c:if>
+		
+					
+					<a href="../list?cp=${param.cp}${c}${s}" class="btn btn-primary float-right mr-2">목록으로</a>
 				</div>
 				
 				
 				<%-- 댓글 영역 include 예정 --%>
-				<%-- <jsp:include page="reply.jsp"/> --%>
+				<jsp:include page="reply.jsp"/> 
 			</div>
 
 		</div>

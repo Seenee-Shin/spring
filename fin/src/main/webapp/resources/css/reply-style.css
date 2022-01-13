@@ -1,0 +1,31 @@
+/*댓글*/
+.replyWrite>table {	margin-top: 100px; }
+.rWriter {
+	display: inline-block;
+	vertical-align: top;
+	font-size : 1.2em;
+	font-weight: bold;
+}
+.rDate { display: inline-block; }
+.rContent, .replyBtnArea {
+	/* height: 100%; */
+	width: 100%;
+}
+.replyBtnArea { text-align: right; }
+.replyUpdateContent {
+	resize: none;
+	width: 100%;
+}
+.reply-row{
+	border-top : 1px solid #ccc;
+	padding : 15px 0;
+}
+
+
+/* 자식 댓글를 안쪽으로 조금 들여 넣기 */
+.child-reply{ padding-left: 60px;}
+
+/* 대댓글 내용 작성 영역*/
+.replyInsertContent{
+	width:100%; margin-top:10px; resize:none;
+}
