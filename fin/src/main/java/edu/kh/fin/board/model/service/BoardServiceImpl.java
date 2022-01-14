@@ -289,6 +289,15 @@ public class BoardServiceImpl implements BoardService{
 	public List<Board> selectBoardList(Pagination pagination, Search search) {
 		// TODO Auto-generated method stub
 		return dao.selectBoardList(pagination, search);
+	}
+
+	/**
+	 *이미지 파일명 목록 조회
+	 */
+	@Override
+	public List<String> selectImgList() {
+		// TODO Auto-generated method stub
+		return dao.selectImgList();
 	}	
 	
 

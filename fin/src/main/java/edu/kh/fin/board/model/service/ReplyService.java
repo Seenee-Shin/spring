@@ -19,4 +19,8 @@ public interface ReplyService {
 	 */
 	int insertReply(Reply reply);
 
+	int updateReply(Reply reply);
+
+	int deleteReply(int replyNo);
+
 }

@@ -54,5 +54,10 @@ public interface BoardService  {
 	Pagination getPagination(int cp, Search search);
 
 	List<Board> selectBoardList(Pagination pagination, Search search);
+
+	/** 이미지 파일명 목록 조회 
+	 * @return
+	 */
+	List<String> selectImgList();
 	
 }

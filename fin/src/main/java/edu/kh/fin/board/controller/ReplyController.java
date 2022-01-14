@@ -42,13 +42,18 @@ public class ReplyController {
 		return service.insertReply(reply);
 	}
 	
-	
-	public String updateReply() {
-		return null;
+	//댓글 수정
+	@RequestMapping( value = "update", method = RequestMethod.POST) 
+	public int updateReply(Reply reply /*커멘드 객체*/) {
+		//replyNo, replyContent
+		return service.updateReply(reply);
 	}
 	
 	
-	public String deleteReply() {
-		return null;
+	//댓글 삭제
+	@RequestMapping(value = "delete", method = RequestMethod.POST)
+	public int deleteReply(int replyNo) {
+		
+		return service.deleteReply(replyNo);
 	}
 }

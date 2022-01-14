@@ -34,6 +34,24 @@ public class ReplyServiceImpl implements ReplyService {
 		
 		return dao.insertReply(reply);
 	}
+
+
+
+	@Override
+	public int updateReply(Reply reply) {
+		reply.setReplyContent(Util.XSS(reply.getReplyContent()));
+		reply.setReplyContent(Util.changeNewLine(reply.getReplyContent()));
+		
+		return dao.updateReply(reply);
+	}
+
+
+
+	@Override
+	public int deleteReply(int replyNo) {
+		// TODO Auto-generated method stub
+		return dao.deleteReply(replyNo);
+	}
 	
 	
 

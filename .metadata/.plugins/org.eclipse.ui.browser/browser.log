@@ -177,3 +177,14 @@
 1월 13, 2022 17:29:36.338 [16316:21024:0113/172936.337:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
 1월 13, 2022 17:29:36.338 [16316:21024:0113/172936.337:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
 1월 13, 2022 17:29:38.15 [16316:21024:0113/172938.015:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to Debugger.setBlackboxPatterns", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 14, 2022 09:25:42.655 NEW SESSION
+1월 14, 2022 09:25:42.655 [10308:24536:0114/092542.613:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 14, 2022 09:25:42.656 [10308:24536:0114/092542.613:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 14, 2022 09:25:42.657 [10308:24536:0114/092542.613:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 14, 2022 09:25:42.657 [10308:24536:0114/092542.614:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 14, 2022 09:25:42.658 [10308:10968:0114/092542.631:ERROR:device_event_log_impl.cc(214)] [09:25:42.631] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 14, 2022 09:25:42.659 [10308:10968:0114/092542.632:ERROR:device_event_log_impl.cc(214)] [09:25:42.632] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 14, 2022 14:02:37.171 [10308:18604:0114/140237.168:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+1월 14, 2022 14:02:37.672 [10308:20928:0114/140237.671:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 14, 2022 14:02:46.384 [10308:10968:0114/140246.384:ERROR:device_event_log_impl.cc(214)] [14:02:46.384] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)

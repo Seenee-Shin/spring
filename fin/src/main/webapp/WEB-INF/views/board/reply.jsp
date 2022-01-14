@@ -34,12 +34,12 @@
 	
 				<p class="rContent">댓글 내용 테스트</p>
 					
-				
+				<!-- 				
 				<div class="replyBtnArea">
 					<button class="btn btn-primary btn-sm ml-1"  onclick="showInsertReply(${reply.replyNo}, this)">대댓글</button>
 					<button class="btn btn-primary btn-sm ml-1"  onclick="showUpdateReply(${reply.replyNo}, this)">수정</button>
 					<button class="btn btn-primary btn-sm ml-1"  onclick="deleteReply(${reply.replyNo})">삭제</button>
-				</div>
+				</div> -->
 				
 				<!-- <textarea class="replyInsertContent" rows="3"></textarea>
 				<div class="replyBtnArea">

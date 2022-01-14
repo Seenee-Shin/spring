@@ -127,8 +127,14 @@ public class BoardDAO {
 		
 		RowBounds rowb = new RowBounds(offset, pagination.getLimit());
 		
-		// TODO Auto-generated method stub
 		return sqlSession.selectList("boardMapper.selectSearchBoardList", search, rowb);
+	}
+
+	/** 이미지 파일명 목록 조회 
+	 * @return
+	 */
+	public List<String> selectImgList() {
+		return sqlSession.selectList("boardMapper.selectImgList");
 	}
 	
 }
