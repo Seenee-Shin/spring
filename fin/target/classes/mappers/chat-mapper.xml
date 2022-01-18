@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="chatMapper">
+
+	<resultMap type="ChatRoom" id="chatRoomRm">
+		<id property="chatRoomNo" column="CHAT_ROOM_NO"/>
+		
+		<result property="title" column="TITLE"/>
+		<result property="statusCode" column="STATUS_CD"/>
+		<result property="memberNo" column="MEMBER_NO"/>
+		<result property="memberName" column="MEMBER_NM"/>
+		<result property="cnt" column="CNT"/>
+	</resultMap>
+	
+	<resultMap type="ChatMessage" id="chatMessageRm">
+		<id property="chatMessageNo" column="CM_NO"/>
+		
+		<result property="message" column="MESSAGE"/>
+		<result property="createDate" column="CREATE_DT"/>
+		<result property="chatRoomNo" column="CHAT_ROOM_NO"/>
+		<result property="memberNo" column="MEMBER_NO"/>
+		<result property="memberName" column="MEMBER_NM"/>
+		<result property="memberId" column="MEMBER_ID"/>
+	</resultMap>
+	
+	<!-- 채팅방 목록 -->
+	<select id="chatRoomList" resultMap="chatRoomRm">
+		SELECT CHAT_ROOM_NO, TITLE, MEMBER_NM,
+		(SELECT COUNT(*) FROM CHAT_ROOM_JOIN J WHERE J.CHAT_ROOM_NO = R.CHAT_ROOM_NO) CNT
+		FROM CHAT_ROOM R
+		JOIN MEMBER USING(MEMBER_NO)
+		WHERE R.STATUS_CD = 1
+		ORDER BY 1 DESC
+	</select>
+	
+	
+	<!-- 채팅방 열기 -->
+	<!-- useGeneratedKeys, resultKey 사용하여 key값 가져오기 -->
+	<!-- useGeneratedKeys : PK 값을 java vo객체에 추가하는 옵션 -->
+	
+	<insert id="openChatRoom" parameterType="ChatRoom" useGeneratedKeys="true">
+		<selectKey order="BEFORE" resultType="_int" keyProperty="chatRoomNo">
+		<!-- insert 하기전 selectKey 실행 후 chatRoomNo에 담기-->
+			SELECT SEQ_CR_NO.NEXTVAL FROM DUAL
+		</selectKey>
+		
+		INSERT INTO CHAT_ROOM VALUES
+		(#{chatRoomNo}, #{title} ,DEFAULT, #{memberNo})
+		
+	</insert>
+	
+	
+	<select id="existChatRoom" resultType="_int">
+		SELECT COUNT(*) FROM CHAT_ROOM
+		WHERE CHAT_ROOM_NO = #{chatRoom}
+		AND STATUS_CD = 1
+	</select>
+	
+	<insert id="joinChatRoom">
+		INSERT INTO CHAT_ROOM_JOIN VALUES(#{memberNo},#{chatRoomNo})
+	</insert>
+	
+	<select id="selectChatMessage"	resultMap="chatMessageRm">
+		SELECT MESSAGE, 
+				TO_CHAR(CREATE_DT,  'YYYY-MM-DD HH24:MI' ) CREATE_DT,
+				MEMBER_NO,MEMBER_NM
+				
+		FROM CHAT_MESSAGE
+		JOIN MEMBER USING (MEMBER_NO)
+		WHERE CHAT_ROOM_NO = #{chatRoomNo}
+		ORDER BY CM_NO
+	</select>
+	
+	
+	
+	<insert id="insertMessage" >
+		INSERT INTO CHAT_MESSAGE VALUES(
+		SEQ_CM_NO.NEXTVAL, #{message}, DEFAULT, #{chatRoomNo}, #{memberNo})
+	</insert>
+	
+	<delete id="exitChatRoom">
+		DELETE FROM CHAT_ROOM_JOIN
+		WHERE MEMBER_NO = #{memberNo}
+		AND CHAT_ROOM_NO = #{chatRoomNo}
+      
+   </delete>
+</mapper>

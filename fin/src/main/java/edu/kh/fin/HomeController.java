@@ -45,7 +45,11 @@ public class HomeController {
 	
 	@RequestMapping(value="/" , method = RequestMethod.GET)
 	public String mainforward() {
-		
+		//로그 남기기 
+//		logger.debug("메인페이지 접속");
+//		logger.info("메인페이지 접속");
+//		logger.warn("메인페이지 접속");
+//		logger.error("메인페이지 접속");
 		return "common/main";
 	}
 	

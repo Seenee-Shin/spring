@@ -41,6 +41,7 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
 
+					<li class="nav-item"><a class="nav-link" href="${contextPath}/chat/roomList">채팅방 목록</a></li>
 					<li class="nav-item"><a class="nav-link" href="${contextPath}/board/list">Board</a></li>
 
 					<!-- 로그인 버튼 -->
