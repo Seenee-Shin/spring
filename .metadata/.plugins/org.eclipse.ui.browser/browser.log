@@ -237,3 +237,27 @@
 1월 18, 2022 14:37:31.645 [17324:21636:0118/143731.645:ERROR:device_event_log_impl.cc(214)] [14:37:31.644] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 1월 18, 2022 15:00:42.724 [17324:16992:0118/150042.724:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 1월 18, 2022 15:00:51.424 [17324:21636:0118/150051.423:ERROR:device_event_log_impl.cc(214)] [15:00:51.423] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+1월 19, 2022 09:16:10.615 NEW SESSION
+1월 19, 2022 09:16:10.615 [32572:27480:0119/091610.606:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 09:16:10.623 [32572:27480:0119/091610.606:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 19, 2022 09:16:10.629 [32572:27480:0119/091610.606:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 09:16:10.630 [32572:27480:0119/091610.608:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 19, 2022 09:16:10.631 [32572:18096:0119/091610.617:ERROR:device_event_log_impl.cc(214)] [09:16:10.617] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 19, 2022 09:16:10.631 [32572:18096:0119/091610.619:ERROR:device_event_log_impl.cc(214)] [09:16:10.618] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 19, 2022 10:13:40.966 [13412:27108:0119/101340.965:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 10:13:40.975 [13412:27108:0119/101340.965:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 19, 2022 10:13:40.981 [13412:27108:0119/101340.965:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 10:13:40.982 [13412:27108:0119/101340.966:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 19, 2022 10:13:40.983 [13412:26492:0119/101340.972:ERROR:device_event_log_impl.cc(214)] [10:13:40.971] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 19, 2022 10:13:40.984 [13412:26492:0119/101340.972:ERROR:device_event_log_impl.cc(214)] [10:13:40.971] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 19, 2022 10:49:22.814 [13412:26492:0119/104922.813:ERROR:device_event_log_impl.cc(214)] [10:49:22.813] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+1월 19, 2022 12:51:44.98 [13412:20736:0119/125144.097:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 19, 2022 14:07:34.954 [13412:20736:0119/140734.954:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 19, 2022 14:07:34.958 [13412:2320:0119/140734.958:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+1월 19, 2022 14:07:47.516 [13412:26492:0119/140747.516:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 19, 2022 15:16:51.42 [13412:26492:0119/151651.040:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 19, 2022 18:57:37.162 [13412:20736:0119/185737.160:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 19, 2022 18:57:37.167 [13412:24088:0119/185737.167:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+1월 19, 2022 20:34:29.179 [13412:20736:0119/203429.178:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 19, 2022 20:35:09.102 [13412:20736:0119/203509.100:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

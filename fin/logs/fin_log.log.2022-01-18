@@ -1,0 +1,52 @@
+2022-01-18 11:55:26 [DEBUG] 메인페이지 접속
+2022-01-18 11:55:26 [INFO] 메인페이지 접속
+2022-01-18 11:55:26 [WARN] 메인페이지 접속
+2022-01-18 11:55:26 [ERROR] 메인페이지 접속
+2022-01-18 14:09:12 [DEBUG] 메인페이지 접속
+2022-01-18 14:09:12 [INFO] 메인페이지 접속
+2022-01-18 14:09:12 [WARN] 메인페이지 접속
+2022-01-18 14:09:12 [ERROR] 메인페이지 접속
+2022-01-18 14:12:17 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행됨ㄴ
+2022-01-18 14:12:17 [DEBUG] 메인페이지 접속
+2022-01-18 14:12:17 [INFO] 메인페이지 접속
+2022-01-18 14:12:17 [WARN] 메인페이지 접속
+2022-01-18 14:12:17 [ERROR] 메인페이지 접속
+2022-01-18 14:12:25 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행됨ㄴ
+2022-01-18 14:26:15 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
+2022-01-18 14:26:15 [DEBUG] []
+2022-01-18 14:26:15 [DEBUG] 메인페이지 접속
+2022-01-18 14:26:15 [INFO] 메인페이지 접속
+2022-01-18 14:26:15 [WARN] 메인페이지 접속
+2022-01-18 14:26:15 [ERROR] 메인페이지 접속
+2022-01-18 14:26:18 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
+2022-01-18 14:26:18 [DEBUG] [Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0], {member=Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}, {}, on, org.apache.catalina.connector.RequestFacade@2c16f8f7, org.apache.catalina.connector.ResponseFacade@5a230414]
+2022-01-18 14:26:19 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
+2022-01-18 14:26:19 [DEBUG] []
+2022-01-18 14:26:19 [DEBUG] 메인페이지 접속
+2022-01-18 14:26:19 [INFO] 메인페이지 접속
+2022-01-18 14:26:19 [WARN] 메인페이지 접속
+2022-01-18 14:26:19 [ERROR] 메인페이지 접속
+2022-01-18 14:26:36 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
+2022-01-18 14:26:36 [DEBUG] [1, {loginMember=Member [memberNo=3, memberId=user03, memberPw=null, memberName=유저삼, memberPhone=010-3242-1234, memberEmail=user03@edd.w.e, memberAddress=62449-광주광역시 광산구 남동길 10-2-32, enrollDate=2022-01-05, statusCode=1, gradeCode=1], search=edu.kh.fin.board.model.vo.Search@7b6783bc, org.springframework.validation.BindingResult.search=org.springframework.validation.BeanPropertyBindingResult: 0 errors}, edu.kh.fin.board.model.vo.Search@7b6783bc]
+2022-01-18 14:36:23 [INFO] [Controller]edu.kh.fin.HomeController.mainforward
+2022-01-18 14:36:25 [INFO] [Controller]edu.kh.fin.chat.controller.ChatController.chatRoomList
+2022-01-18 14:37:30 [INFO] [Controller]HomeController.mainforward
+2022-01-18 14:37:36 [INFO] [Controller]MemberController.login5
+2022-01-18 14:37:36 [INFO] [Controller]HomeController.mainforward
+2022-01-18 14:37:54 [INFO] [Controller]ChatController.chatRoomList
+2022-01-18 14:38:08 [INFO] [Controller]BoardController.selectBoardList
+2022-01-18 15:11:30 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-18 15:11:33 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-18 15:11:33 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-18 15:25:47 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-18 15:25:58 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
+2022-01-18 15:53:38 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-18 15:53:47 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
+2022-01-18 15:53:56 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-18 15:53:57 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-18 15:54:42 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
+2022-01-18 15:54:43 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.joinChatRoom
+2022-01-18 15:54:46 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
+2022-01-18 15:57:02 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-18 15:57:06 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-18 15:57:06 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward

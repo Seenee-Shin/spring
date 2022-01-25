@@ -1,52 +1,67 @@
-2022-01-18 11:55:26 [DEBUG] 메인페이지 접속
-2022-01-18 11:55:26 [INFO] 메인페이지 접속
-2022-01-18 11:55:26 [WARN] 메인페이지 접속
-2022-01-18 11:55:26 [ERROR] 메인페이지 접속
-2022-01-18 14:09:12 [DEBUG] 메인페이지 접속
-2022-01-18 14:09:12 [INFO] 메인페이지 접속
-2022-01-18 14:09:12 [WARN] 메인페이지 접속
-2022-01-18 14:09:12 [ERROR] 메인페이지 접속
-2022-01-18 14:12:17 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행됨ㄴ
-2022-01-18 14:12:17 [DEBUG] 메인페이지 접속
-2022-01-18 14:12:17 [INFO] 메인페이지 접속
-2022-01-18 14:12:17 [WARN] 메인페이지 접속
-2022-01-18 14:12:17 [ERROR] 메인페이지 접속
-2022-01-18 14:12:25 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행됨ㄴ
-2022-01-18 14:26:15 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
-2022-01-18 14:26:15 [DEBUG] []
-2022-01-18 14:26:15 [DEBUG] 메인페이지 접속
-2022-01-18 14:26:15 [INFO] 메인페이지 접속
-2022-01-18 14:26:15 [WARN] 메인페이지 접속
-2022-01-18 14:26:15 [ERROR] 메인페이지 접속
-2022-01-18 14:26:18 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
-2022-01-18 14:26:18 [DEBUG] [Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0], {member=Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0], org.springframework.validation.BindingResult.member=org.springframework.validation.BeanPropertyBindingResult: 0 errors}, {}, on, org.apache.catalina.connector.RequestFacade@2c16f8f7, org.apache.catalina.connector.ResponseFacade@5a230414]
-2022-01-18 14:26:19 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
-2022-01-18 14:26:19 [DEBUG] []
-2022-01-18 14:26:19 [DEBUG] 메인페이지 접속
-2022-01-18 14:26:19 [INFO] 메인페이지 접속
-2022-01-18 14:26:19 [WARN] 메인페이지 접속
-2022-01-18 14:26:19 [ERROR] 메인페이지 접속
-2022-01-18 14:26:36 [DEBUG] 요청이 전달되서 컨트롤러 메소드가 실행
-2022-01-18 14:26:36 [DEBUG] [1, {loginMember=Member [memberNo=3, memberId=user03, memberPw=null, memberName=유저삼, memberPhone=010-3242-1234, memberEmail=user03@edd.w.e, memberAddress=62449-광주광역시 광산구 남동길 10-2-32, enrollDate=2022-01-05, statusCode=1, gradeCode=1], search=edu.kh.fin.board.model.vo.Search@7b6783bc, org.springframework.validation.BindingResult.search=org.springframework.validation.BeanPropertyBindingResult: 0 errors}, edu.kh.fin.board.model.vo.Search@7b6783bc]
-2022-01-18 14:36:23 [INFO] [Controller]edu.kh.fin.HomeController.mainforward
-2022-01-18 14:36:25 [INFO] [Controller]edu.kh.fin.chat.controller.ChatController.chatRoomList
-2022-01-18 14:37:30 [INFO] [Controller]HomeController.mainforward
-2022-01-18 14:37:36 [INFO] [Controller]MemberController.login5
-2022-01-18 14:37:36 [INFO] [Controller]HomeController.mainforward
-2022-01-18 14:37:54 [INFO] [Controller]ChatController.chatRoomList
-2022-01-18 14:38:08 [INFO] [Controller]BoardController.selectBoardList
-2022-01-18 15:11:30 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
-2022-01-18 15:11:33 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
-2022-01-18 15:11:33 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
-2022-01-18 15:25:47 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
-2022-01-18 15:25:58 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
-2022-01-18 15:53:38 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
-2022-01-18 15:53:47 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
-2022-01-18 15:53:56 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
-2022-01-18 15:53:57 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
-2022-01-18 15:54:42 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
-2022-01-18 15:54:43 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.joinChatRoom
-2022-01-18 15:54:46 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
-2022-01-18 15:57:02 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
-2022-01-18 15:57:06 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
-2022-01-18 15:57:06 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:16:09 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:44:24 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:44:31 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 09:44:31 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:44:41 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
+2022-01-19 09:48:50 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:48:53 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
+2022-01-19 09:49:01 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 09:49:01 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:50:05 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:50:07 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]2034ms[Param][561]
+2022-01-19 09:50:08 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 09:50:09 [DEBUG] [Service]MemberServiceImpl-login()[Running Time]272ms[Param][Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0]]
+2022-01-19 09:50:09 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:50:10 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]10ms[Param][561]
+2022-01-19 09:50:13 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]11ms[Param][561]
+2022-01-19 09:50:16 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]12ms[Param][561]
+2022-01-19 09:50:19 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]6ms[Param][561]
+2022-01-19 09:50:22 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]7ms[Param][561]
+2022-01-19 09:52:06 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:52:07 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]2135ms[Param][561]
+2022-01-19 09:52:10 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 09:52:10 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]45ms[Param][561]
+2022-01-19 09:52:11 [DEBUG] [Service]MemberServiceImpl-login()[Running Time]305ms[Param][Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0]]
+2022-01-19 09:52:11 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:52:13 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]9ms[Param][561]
+2022-01-19 09:52:16 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]13ms[Param][561]
+2022-01-19 09:52:19 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]7ms[Param][561]
+2022-01-19 09:52:22 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]7ms[Param][561]
+2022-01-19 09:52:25 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]ChatController.chatRoomList
+2022-01-19 09:52:25 [DEBUG] [Service]ChatServiceImpl-chatRoomList()[Running Time]7ms[Param][]
+2022-01-19 09:52:25 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]8ms[Param][561]
+2022-01-19 09:52:28 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]8ms[Param][561]
+2022-01-19 09:53:45 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 09:53:46 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]2057ms[Param][561]
+2022-01-19 09:53:49 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 09:53:49 [DEBUG] [Service]MemberServiceImpl-login()[Running Time]278ms[Param][Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0]]
+2022-01-19 09:53:49 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 09:53:49 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]9ms[Param][561]
+2022-01-19 09:53:52 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]18ms[Param][561]
+2022-01-19 09:53:55 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]11ms[Param][561]
+2022-01-19 10:13:38 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]ChatController.chatRoomList
+2022-01-19 10:13:39 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]HomeController.mainforward
+2022-01-19 10:13:39 [INFO] --------------------------------------------
+
+2022-01-19 10:13:40 [DEBUG] [Service]ChatServiceImpl-chatRoomList()[Running Time]2500ms[Param][]
+2022-01-19 10:13:40 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]2805ms[Param][561]
+2022-01-19 10:13:40 [DEBUG] [Return][ChatRoom [chatRoomNo=21, title=요요요, statusCode=0, memberNo=0, memberName=유저이, cnt=1], ChatRoom [chatRoomNo=2, title=테스트2, statusCode=0, memberNo=0, memberName=유저삼, cnt=2], ChatRoom [chatRoomNo=1, title=테스트1, statusCode=0, memberNo=0, memberName=유저이, cnt=2]]
+2022-01-19 10:13:40 [DEBUG] [Return][edu.kh.fin.board.model.vo.Reply@3aea245c, edu.kh.fin.board.model.vo.Reply@13202884, edu.kh.fin.board.model.vo.Reply@14fcf09c, edu.kh.fin.board.model.vo.Reply@4d3e8661, edu.kh.fin.board.model.vo.Reply@269d935e, edu.kh.fin.board.model.vo.Reply@346beb01, edu.kh.fin.board.model.vo.Reply@47608500, edu.kh.fin.board.model.vo.Reply@7e540e03, edu.kh.fin.board.model.vo.Reply@341965f4, edu.kh.fin.board.model.vo.Reply@5f41b395, edu.kh.fin.board.model.vo.Reply@1c4a75f8, edu.kh.fin.board.model.vo.Reply@42b04464, edu.kh.fin.board.model.vo.Reply@3d79af03, edu.kh.fin.board.model.vo.Reply@6ff66e22, edu.kh.fin.board.model.vo.Reply@205c3391, edu.kh.fin.board.model.vo.Reply@608fc09a, edu.kh.fin.board.model.vo.Reply@107e7a3f, edu.kh.fin.board.model.vo.Reply@4c25916c, edu.kh.fin.board.model.vo.Reply@d24e3c2]
+2022-01-19 10:13:40 [INFO] --------------------------------------------
+
+2022-01-19 10:13:42 [INFO] [ip]0:0:0:0:0:0:0:1[Controller]MemberController.login5
+2022-01-19 10:13:42 [DEBUG] [Service]MemberServiceImpl-login()[Running Time]150ms[Param][Member [memberNo=0, memberId=user03, memberPw=pass03!, memberName=null, memberPhone=null, memberEmail=null, memberAddress=null, enrollDate=null, statusCode=0, gradeCode=0]]
+2022-01-19 10:13:42 [DEBUG] [Return]Member [memberNo=3, memberId=user03, memberPw=null, memberName=유저삼, memberPhone=010-3242-1234, memberEmail=user03@edd.w.e, memberAddress=62449-광주광역시 광산구 남동길 10-2-32, enrollDate=2022-01-05, statusCode=1, gradeCode=1]
+2022-01-19 10:13:42 [INFO] --------------------------------------------
+
+2022-01-19 10:13:42 [INFO] [ip]0:0:0:0:0:0:0:1(id:user03)[Controller]HomeController.mainforward
+2022-01-19 10:13:42 [INFO] --------------------------------------------
+
+2022-01-19 10:13:43 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]15ms[Param][561]
+2022-01-19 10:13:43 [DEBUG] [Return][edu.kh.fin.board.model.vo.Reply@707c7548, edu.kh.fin.board.model.vo.Reply@59f3b755, edu.kh.fin.board.model.vo.Reply@21d8cbcd, edu.kh.fin.board.model.vo.Reply@153f1cc3, edu.kh.fin.board.model.vo.Reply@67afd19, edu.kh.fin.board.model.vo.Reply@42f7bb9c, edu.kh.fin.board.model.vo.Reply@259696ac, edu.kh.fin.board.model.vo.Reply@48a25fd9, edu.kh.fin.board.model.vo.Reply@1961f1e1, edu.kh.fin.board.model.vo.Reply@66b5820a, edu.kh.fin.board.model.vo.Reply@77874b86, edu.kh.fin.board.model.vo.Reply@2d819e38, edu.kh.fin.board.model.vo.Reply@3b799c90, edu.kh.fin.board.model.vo.Reply@7196fc27, edu.kh.fin.board.model.vo.Reply@3c8042e8, edu.kh.fin.board.model.vo.Reply@1d516b1e, edu.kh.fin.board.model.vo.Reply@6abbf938, edu.kh.fin.board.model.vo.Reply@2c8a578c, edu.kh.fin.board.model.vo.Reply@1223d7f7]
+2022-01-19 10:13:46 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]11ms[Param][561]
+2022-01-19 10:13:46 [DEBUG] [Return][edu.kh.fin.board.model.vo.Reply@5cfdb899, edu.kh.fin.board.model.vo.Reply@523a5d76, edu.kh.fin.board.model.vo.Reply@5605d3e9, edu.kh.fin.board.model.vo.Reply@1307574d, edu.kh.fin.board.model.vo.Reply@220f1cc4, edu.kh.fin.board.model.vo.Reply@225e241e, edu.kh.fin.board.model.vo.Reply@5abc3127, edu.kh.fin.board.model.vo.Reply@7328a802, edu.kh.fin.board.model.vo.Reply@299b639f, edu.kh.fin.board.model.vo.Reply@7ab6dc66, edu.kh.fin.board.model.vo.Reply@41b8ff1e, edu.kh.fin.board.model.vo.Reply@77663793, edu.kh.fin.board.model.vo.Reply@593257b, edu.kh.fin.board.model.vo.Reply@498a9c43, edu.kh.fin.board.model.vo.Reply@4fccda63, edu.kh.fin.board.model.vo.Reply@950a6a6, edu.kh.fin.board.model.vo.Reply@1574e20a, edu.kh.fin.board.model.vo.Reply@8011c63, edu.kh.fin.board.model.vo.Reply@2137d0c2]
+2022-01-19 10:13:49 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]7ms[Param][561]
+2022-01-19 10:13:49 [DEBUG] [Return][edu.kh.fin.board.model.vo.Reply@317b0cb0, edu.kh.fin.board.model.vo.Reply@4fb31b24, edu.kh.fin.board.model.vo.Reply@43a3e14a, edu.kh.fin.board.model.vo.Reply@25409bef, edu.kh.fin.board.model.vo.Reply@4c371d7b, edu.kh.fin.board.model.vo.Reply@1b8a55e2, edu.kh.fin.board.model.vo.Reply@47ff4e68, edu.kh.fin.board.model.vo.Reply@66c12a9b, edu.kh.fin.board.model.vo.Reply@12693ffd, edu.kh.fin.board.model.vo.Reply@5b055d17, edu.kh.fin.board.model.vo.Reply@66b4d411, edu.kh.fin.board.model.vo.Reply@94ebfae, edu.kh.fin.board.model.vo.Reply@5283ffad, edu.kh.fin.board.model.vo.Reply@231ffd0f, edu.kh.fin.board.model.vo.Reply@63cbb121, edu.kh.fin.board.model.vo.Reply@1f04d139, edu.kh.fin.board.model.vo.Reply@52372be3, edu.kh.fin.board.model.vo.Reply@e1c432f, edu.kh.fin.board.model.vo.Reply@30e0b974]
+2022-01-19 10:13:52 [DEBUG] [Service]ReplyServiceImpl-selectList()[Running Time]8ms[Param][561]
+2022-01-19 10:13:52 [DEBUG] [Return][edu.kh.fin.board.model.vo.Reply@707d5627, edu.kh.fin.board.model.vo.Reply@10b317b5, edu.kh.fin.board.model.vo.Reply@3a23cc92, edu.kh.fin.board.model.vo.Reply@22c53c33, edu.kh.fin.board.model.vo.Reply@38139a22, edu.kh.fin.board.model.vo.Reply@30152c2a, edu.kh.fin.board.model.vo.Reply@147631e6, edu.kh.fin.board.model.vo.Reply@1f59b3ff, edu.kh.fin.board.model.vo.Reply@3b3ff8bc, edu.kh.fin.board.model.vo.Reply@22d2e78d, edu.kh.fin.board.model.vo.Reply@78e1b30, edu.kh.fin.board.model.vo.Reply@559a8675, edu.kh.fin.board.model.vo.Reply@11246e62, edu.kh.fin.board.model.vo.Reply@247f0d44, edu.kh.fin.board.model.vo.Reply@53dfd560, edu.kh.fin.board.model.vo.Reply@52f75840, edu.kh.fin.board.model.vo.Reply@60926b02, edu.kh.fin.board.model.vo.Reply@3cdb4f79, edu.kh.fin.board.model.vo.Reply@1102f957]
