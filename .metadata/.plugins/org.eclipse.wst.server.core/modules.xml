@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:fin" serverId="finserver"/>
+  <module moduleId="org.eclipse.jst.jee.server:mind" serverId="finserver"/>
 </modules>

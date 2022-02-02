@@ -261,3 +261,320 @@
 1월 19, 2022 18:57:37.167 [13412:24088:0119/185737.167:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
 1월 19, 2022 20:34:29.179 [13412:20736:0119/203429.178:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 1월 19, 2022 20:35:09.102 [13412:20736:0119/203509.100:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+1월 28, 2022 12:28:48.563 NEW SESSION
+1월 28, 2022 12:28:48.563 [5844:1544:0128/122848.546:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 12:28:48.570 [5844:1544:0128/122848.546:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 12:28:48.574 [5844:1544:0128/122848.546:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 12:28:48.575 [5844:1544:0128/122848.547:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 12:28:48.575 [5844:12060:0128/122848.551:ERROR:device_event_log_impl.cc(214)] [12:28:48.550] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 12:28:48.576 [5844:12060:0128/122848.553:ERROR:device_event_log_impl.cc(214)] [12:28:48.552] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 12:49:22.681 [9448:10748:0128/124922.680:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 12:49:22.687 [9448:10748:0128/124922.680:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 12:49:22.692 [9448:10748:0128/124922.680:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 12:49:22.692 [9448:10748:0128/124922.682:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 12:49:22.693 [9448:3932:0128/124922.688:ERROR:device_event_log_impl.cc(214)] [12:49:22.688] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 12:49:22.693 [9448:3932:0128/124922.689:ERROR:device_event_log_impl.cc(214)] [12:49:22.689] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 14:04:05.784 [9448:10408:0128/140405.783:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 28, 2022 14:04:15.463 [9448:3932:0128/140415.463:ERROR:device_event_log_impl.cc(214)] [14:04:15.463] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+1월 28, 2022 21:27:35.20 NEW SESSION
+1월 28, 2022 21:27:35.21 [12904:14452:0128/212735.018:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 21:27:35.26 [12904:14452:0128/212735.018:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 21:27:35.31 [12904:14452:0128/212735.018:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 21:27:35.32 [12904:14452:0128/212735.020:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 21:27:35.32 [12904:13824:0128/212735.023:ERROR:device_event_log_impl.cc(214)] [21:27:35.022] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 21:27:35.32 [12904:13824:0128/212735.024:ERROR:device_event_log_impl.cc(214)] [21:27:35.024] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 21:30:48.108 [2564:4660:0128/213048.108:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 21:30:48.113 [2564:4660:0128/213048.108:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 21:30:48.117 [2564:4660:0128/213048.108:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 21:30:48.121 [2564:4660:0128/213048.109:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 21:30:48.122 [2564:7552:0128/213048.114:ERROR:device_event_log_impl.cc(214)] [21:30:48.113] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 21:30:48.122 [2564:7552:0128/213048.116:ERROR:device_event_log_impl.cc(214)] [21:30:48.115] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 22:51:27.307 [14428:6640:0128/225127.295:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 22:51:27.315 [14428:6640:0128/225127.295:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 22:51:27.319 [14428:6640:0128/225127.295:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 22:51:27.320 [14428:6640:0128/225127.296:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 22:51:27.320 [14428:6908:0128/225127.300:ERROR:device_event_log_impl.cc(214)] [22:51:27.300] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 22:51:27.320 [14428:6908:0128/225127.300:ERROR:device_event_log_impl.cc(214)] [22:51:27.300] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 23:22:48.417 [2304:12508:0128/232248.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 23:22:48.422 [2304:12508:0128/232248.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 23:22:48.428 [2304:12508:0128/232248.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 23:22:48.433 [2304:12508:0128/232248.418:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 23:22:48.433 [2304:4288:0128/232248.424:ERROR:device_event_log_impl.cc(214)] [23:22:48.424] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 23:22:48.433 [2304:4288:0128/232248.425:ERROR:device_event_log_impl.cc(214)] [23:22:48.425] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 28, 2022 23:25:31.37 [2304:4288:0128/232531.036:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+1월 29, 2022 13:52:31.511 NEW SESSION
+1월 29, 2022 13:52:31.511 [2180:15340:0129/135231.510:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 13:52:31.524 [2180:15340:0129/135231.511:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 29, 2022 13:52:31.528 [2180:15340:0129/135231.511:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 13:52:31.529 [2180:11604:0129/135231.512:ERROR:device_event_log_impl.cc(214)] [13:52:31.512] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 13:52:31.529 [2180:15340:0129/135231.513:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 29, 2022 13:52:31.529 [2180:11604:0129/135231.514:ERROR:device_event_log_impl.cc(214)] [13:52:31.514] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 15:50:13.761 [2180:2072:0129/155013.713:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 29, 2022 15:50:39.327 [2180:2072:0129/155039.327:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 29, 2022 15:51:28.520 [2180:2072:0129/155128.519:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 29, 2022 15:53:23.730 [2180:2072:0129/155323.730:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 29, 2022 15:56:26.933 [2180:2072:0129/155626.933:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+1월 29, 2022 15:58:48.808 [2180:11604:0129/155848.808:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+1월 29, 2022 17:41:51.186 NEW SESSION
+1월 29, 2022 17:41:51.186 [14812:12532:0129/174151.184:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:41:51.235 [14812:12532:0129/174151.184:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 29, 2022 17:41:51.243 [14812:12532:0129/174151.184:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:41:51.244 [14812:12532:0129/174151.186:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 29, 2022 17:41:51.245 [14812:3948:0129/174151.195:ERROR:device_event_log_impl.cc(214)] [17:41:51.195] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 17:41:51.246 [14812:3948:0129/174151.197:ERROR:device_event_log_impl.cc(214)] [17:41:51.197] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 17:43:45.579 [9284:14892:0129/174345.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:43:45.612 [9284:14892:0129/174345.580:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 29, 2022 17:43:45.625 [9284:14892:0129/174345.580:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:43:45.635 [9284:14892:0129/174345.583:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 29, 2022 17:43:45.636 [9284:2244:0129/174345.587:ERROR:device_event_log_impl.cc(214)] [17:43:45.587] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 17:43:45.637 [9284:2244:0129/174345.589:ERROR:device_event_log_impl.cc(214)] [17:43:45.589] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+1월 29, 2022 17:47:03.883 NEW SESSION
+1월 29, 2022 17:47:03.883 [8980:8976:0129/174703.881:ERROR:device_event_log_impl.cc(214)] [17:47:03.881] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 17:47:03.884 [8980:7704:0129/174703.882:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:47:03.884 [8980:8976:0129/174703.883:ERROR:device_event_log_impl.cc(214)] [17:47:03.884] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 29, 2022 17:47:03.885 [8980:7704:0129/174703.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 29, 2022 17:47:03.885 [8980:7704:0129/174703.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 29, 2022 17:47:03.890 [8980:7704:0129/174703.890:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 29, 2022 17:49:43.355 [8980:8976:0129/174943.340:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:49:43.369 [8980:8976:0129/174943.341:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:49:45.960 [8980:8976:0129/174945.945:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:49:45.974 [8980:8976:0129/174945.945:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:20.791 [8980:8976:0129/175020.790:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:20.800 [8980:8976:0129/175020.790:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:29.80 [8980:8976:0129/175029.079:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:29.92 [8980:8976:0129/175029.080:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:40.231 [8980:8976:0129/175040.231:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:40.255 [8980:8976:0129/175040.231:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:41.584 [8980:8976:0129/175041.583:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:41.593 [8980:8976:0129/175041.583:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:43.307 [8980:8976:0129/175043.307:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:45.138 [8980:8976:0129/175045.137:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:45.149 [8980:8976:0129/175045.137:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:49.915 [8980:8976:0129/175049.915:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:49.925 [8980:8976:0129/175049.915:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:52.675 [8980:8976:0129/175052.675:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:52.684 [8980:8976:0129/175052.675:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:55.567 [8980:8976:0129/175055.566:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:55.594 [8980:8976:0129/175055.568:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:50:59.00 [8980:8976:0129/175058.998:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:50:59.10 [8980:8976:0129/175058.999:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:01.285 [8980:8976:0129/175101.284:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:01.311 [8980:8976:0129/175101.285:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:03.950 [8980:8976:0129/175103.949:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:03.959 [8980:8976:0129/175103.950:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:05.722 [8980:8976:0129/175105.721:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:05.731 [8980:8976:0129/175105.721:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:10.885 [8980:8976:0129/175110.885:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:14.276 [8980:8976:0129/175114.275:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:14.285 [8980:8976:0129/175114.275:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:14.397 [8980:8976:0129/175114.389:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:14.405 [8980:8976:0129/175114.389:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:14.532 [8980:8976:0129/175114.524:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:14.540 [8980:8976:0129/175114.524:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.43 [8980:8976:0129/175115.036:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.53 [8980:8976:0129/175115.036:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.176 [8980:8976:0129/175115.168:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.186 [8980:8976:0129/175115.168:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.286 [8980:8976:0129/175115.286:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.288 [8980:8976:0129/175115.286:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.401 [8980:8976:0129/175115.400:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.402 [8980:8976:0129/175115.401:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.531 [8980:8976:0129/175115.531:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.532 [8980:8976:0129/175115.531:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.662 [8980:8976:0129/175115.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.663 [8980:8976:0129/175115.662:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.793 [8980:8976:0129/175115.793:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.794 [8980:8976:0129/175115.793:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:15.922 [8980:8976:0129/175115.922:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:15.923 [8980:8976:0129/175115.922:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.42 [8980:8976:0129/175116.041:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.42 [8980:8976:0129/175116.042:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.157 [8980:8976:0129/175116.157:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.158 [8980:8976:0129/175116.157:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.285 [8980:8976:0129/175116.284:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.286 [8980:8976:0129/175116.285:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.411 [8980:8976:0129/175116.411:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.412 [8980:8976:0129/175116.411:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.520 [8980:8976:0129/175116.520:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.521 [8980:8976:0129/175116.520:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.651 [8980:8976:0129/175116.651:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.652 [8980:8976:0129/175116.651:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.779 [8980:8976:0129/175116.779:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.781 [8980:8976:0129/175116.779:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:16.912 [8980:8976:0129/175116.911:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:16.912 [8980:8976:0129/175116.911:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.38 [8980:8976:0129/175117.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.39 [8980:8976:0129/175117.038:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.157 [8980:8976:0129/175117.157:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.158 [8980:8976:0129/175117.158:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.271 [8980:8976:0129/175117.270:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.272 [8980:8976:0129/175117.270:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.401 [8980:8976:0129/175117.401:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.402 [8980:8976:0129/175117.401:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.531 [8980:8976:0129/175117.531:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.532 [8980:8976:0129/175117.531:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.651 [8980:8976:0129/175117.651:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.652 [8980:8976:0129/175117.651:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.764 [8980:8976:0129/175117.763:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.765 [8980:8976:0129/175117.763:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:17.901 [8980:8976:0129/175117.901:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:17.902 [8980:8976:0129/175117.901:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.25 [8980:8976:0129/175118.025:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.26 [8980:8976:0129/175118.025:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.154 [8980:8976:0129/175118.154:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.155 [8980:8976:0129/175118.154:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.287 [8980:8976:0129/175118.287:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.288 [8980:8976:0129/175118.287:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.405 [8980:8976:0129/175118.405:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.406 [8980:8976:0129/175118.405:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.518 [8980:8976:0129/175118.518:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.519 [8980:8976:0129/175118.518:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.650 [8980:8976:0129/175118.650:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.651 [8980:8976:0129/175118.650:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.773 [8980:8976:0129/175118.772:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.774 [8980:8976:0129/175118.772:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:18.885 [8980:8976:0129/175118.884:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:18.886 [8980:8976:0129/175118.884:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.15 [8980:8976:0129/175119.014:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.16 [8980:8976:0129/175119.014:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.142 [8980:8976:0129/175119.141:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.142 [8980:8976:0129/175119.141:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.271 [8980:8976:0129/175119.270:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.272 [8980:8976:0129/175119.270:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.406 [8980:8976:0129/175119.405:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.407 [8980:8976:0129/175119.406:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.536 [8980:8976:0129/175119.536:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.538 [8980:8976:0129/175119.536:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.667 [8980:8976:0129/175119.667:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.668 [8980:8976:0129/175119.667:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.798 [8980:8976:0129/175119.797:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.799 [8980:8976:0129/175119.797:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:19.932 [8980:8976:0129/175119.931:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:19.933 [8980:8976:0129/175119.931:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.64 [8980:8976:0129/175120.063:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.65 [8980:8976:0129/175120.063:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.191 [8980:8976:0129/175120.190:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.192 [8980:8976:0129/175120.190:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.321 [8980:8976:0129/175120.321:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.322 [8980:8976:0129/175120.321:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.453 [8980:8976:0129/175120.452:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.454 [8980:8976:0129/175120.452:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.587 [8980:8976:0129/175120.587:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.588 [8980:8976:0129/175120.587:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.718 [8980:8976:0129/175120.718:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.719 [8980:8976:0129/175120.718:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.847 [8980:8976:0129/175120.846:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.848 [8980:8976:0129/175120.846:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:20.978 [8980:8976:0129/175120.978:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:20.979 [8980:8976:0129/175120.978:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.114 [8980:8976:0129/175121.113:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.114 [8980:8976:0129/175121.113:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.241 [8980:8976:0129/175121.241:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.242 [8980:8976:0129/175121.241:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.371 [8980:8976:0129/175121.370:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.371 [8980:8976:0129/175121.370:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.490 [8980:8976:0129/175121.490:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.491 [8980:8976:0129/175121.490:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.604 [8980:8976:0129/175121.603:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.606 [8980:8976:0129/175121.603:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.722 [8980:8976:0129/175121.721:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.723 [8980:8976:0129/175121.722:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.833 [8980:8976:0129/175121.833:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.834 [8980:8976:0129/175121.833:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:21.962 [8980:8976:0129/175121.960:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:21.963 [8980:8976:0129/175121.960:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:22.97 [8980:8976:0129/175122.096:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:22.98 [8980:8976:0129/175122.096:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:22.248 [8980:8976:0129/175122.247:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:22.261 [8980:8976:0129/175122.248:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:22.360 [8980:8976:0129/175122.359:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:22.361 [8980:8976:0129/175122.359:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:22.489 [8980:8976:0129/175122.488:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:22.490 [8980:8976:0129/175122.488:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:27.338 [8980:8976:0129/175127.337:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:51:27.456 [8980:8976:0129/175127.448:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:51:27.467 [8980:8976:0129/175127.448:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:08.276 [8980:8976:0129/175208.275:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:08.289 [8980:8976:0129/175208.276:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:26.527 [8980:8976:0129/175226.527:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:26.535 [8980:8976:0129/175226.527:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:39.273 [8980:8976:0129/175239.272:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:39.289 [8980:8976:0129/175239.272:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:40.27 [8980:8976:0129/175240.026:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:40.37 [8980:8976:0129/175240.026:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:41.34 [8980:8976:0129/175241.033:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:41.43 [8980:8976:0129/175241.033:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:42.39 [8980:8976:0129/175242.039:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:42.49 [8980:8976:0129/175242.039:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:52:43.907 [8980:8976:0129/175243.906:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:52:43.926 [8980:8976:0129/175243.906:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 29, 2022 17:53:11.330 [8980:8976:0129/175311.324:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.368 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.397 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.423 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.444 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.489 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.533 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.627 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 29, 2022 17:53:11.650 [8980:8976:0129/175311.325:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 30, 2022 15:07:28.305 NEW SESSION
+1월 30, 2022 15:07:28.306 [13292:5496:0130/150728.254:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 15:07:28.316 [13292:5496:0130/150728.254:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 30, 2022 15:07:28.326 [13292:5496:0130/150728.254:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 15:07:28.327 [13292:5496:0130/150728.260:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 30, 2022 15:07:28.328 [13292:11868:0130/150728.267:ERROR:device_event_log_impl.cc(214)] [15:07:28.267] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 15:07:28.329 [13292:11868:0130/150728.270:ERROR:device_event_log_impl.cc(214)] [15:07:28.270] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 15:07:49.393 [13292:10120:0130/150749.392:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+1월 30, 2022 18:06:35.273 [14652:6872:0130/180635.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 18:06:35.290 [14652:6872:0130/180635.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 30, 2022 18:06:35.299 [14652:6872:0130/180635.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 18:06:35.300 [14652:6872:0130/180635.275:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 30, 2022 18:06:35.301 [14652:15248:0130/180635.285:ERROR:device_event_log_impl.cc(214)] [18:06:35.285] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 18:06:35.302 [14652:15248:0130/180635.286:ERROR:device_event_log_impl.cc(214)] [18:06:35.286] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+1월 30, 2022 20:23:30.837 NEW SESSION
+1월 30, 2022 20:23:30.837 [13368:7744:0130/202330.835:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 20:23:30.845 [13368:7744:0130/202330.835:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 30, 2022 20:23:30.849 [13368:7744:0130/202330.835:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 20:23:30.850 [13368:7744:0130/202330.837:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 30, 2022 20:23:30.850 [13368:4744:0130/202330.841:ERROR:device_event_log_impl.cc(214)] [20:23:30.840] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 20:23:30.850 [13368:4744:0130/202330.843:ERROR:device_event_log_impl.cc(214)] [20:23:30.842] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 20:39:10.46 [12408:6092:0130/203910.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 20:39:10.50 [12408:6092:0130/203910.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 30, 2022 20:39:10.55 [12408:6092:0130/203910.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 20:39:10.59 [12408:6092:0130/203910.047:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 30, 2022 20:39:10.59 [12408:5508:0130/203910.050:ERROR:device_event_log_impl.cc(214)] [20:39:10.051] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 20:39:10.60 [12408:5508:0130/203910.051:ERROR:device_event_log_impl.cc(214)] [20:39:10.051] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 20:51:41.41 [12408:5508:0130/205141.041:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+1월 30, 2022 23:28:35.254 NEW SESSION
+1월 30, 2022 23:28:35.254 [15076:4964:0130/232835.249:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 23:28:35.259 [15076:4964:0130/232835.249:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 30, 2022 23:28:35.264 [15076:4964:0130/232835.249:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 30, 2022 23:28:35.265 [15076:4964:0130/232835.250:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 30, 2022 23:28:35.265 [15076:1248:0130/232835.255:ERROR:device_event_log_impl.cc(214)] [23:28:35.254] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 30, 2022 23:28:35.265 [15076:1248:0130/232835.255:ERROR:device_event_log_impl.cc(214)] [23:28:35.255] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+1월 31, 2022 14:51:47.571 NEW SESSION
+1월 31, 2022 14:51:47.571 [14916:8720:0131/145147.569:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 31, 2022 14:51:47.606 [14916:8720:0131/145147.572:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 31, 2022 14:51:47.612 [14916:8720:0131/145147.572:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 31, 2022 14:51:47.612 [14916:8720:0131/145147.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 31, 2022 14:51:47.613 [14916:2668:0131/145147.576:ERROR:device_event_log_impl.cc(214)] [14:51:47.576] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 31, 2022 14:51:47.615 [14916:2668:0131/145147.577:ERROR:device_event_log_impl.cc(214)] [14:51:47.577] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+1월 31, 2022 15:38:30.396 NEW SESSION
+1월 31, 2022 15:38:30.397 [16016:10384:0131/153830.393:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 31, 2022 15:38:30.412 [16016:10384:0131/153830.396:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 31, 2022 15:38:30.427 [16016:10384:0131/153830.396:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 31, 2022 15:38:30.428 [16016:6160:0131/153830.405:ERROR:device_event_log_impl.cc(214)] [15:38:30.405] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 31, 2022 15:38:30.430 [16016:6160:0131/153830.406:ERROR:device_event_log_impl.cc(214)] [15:38:30.406] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 31, 2022 15:38:30.431 [16016:10384:0131/153830.408:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 31, 2022 16:37:42.169 [16016:2152:0131/163742.168:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+1월 31, 2022 17:27:04.669 [16016:6160:0131/172704.668:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost

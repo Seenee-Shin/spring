@@ -76,7 +76,7 @@
 				</div>
 
 
-				<!-- 파일 업로드 하는 부분 -->
+				<!-- 파일 업로드 하는 부분 -->	
 				<div id="fileArea">
 					<input type="file" name="images" onchange="loadImg(this,0)"> 
 					<input type="file" name="images" onchange="loadImg(this,1)"> 

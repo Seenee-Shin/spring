@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/finserver-config" deployDir="wtpwebapps" hostname="localhost" id="finserver" name="finserver" runtime-id="Apache Tomcat v8.5" serveModulesWithoutPublish="true" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="4">
-    <list key="modules" value0="fin::org.eclipse.jst.jee.server:fin::jst.web::3.1"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/finserver-config" deployDir="wtpwebapps" hostname="localhost" id="finserver" name="finserver" runtime-id="Apache Tomcat v8.5" serveModulesWithoutPublish="true" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="fin::org.eclipse.jst.jee.server:fin::jst.web::3.1" value1="mind::org.eclipse.jst.jee.server:mind::jst.web::3.1"/>
   </server>
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/testserver-config" deployDir="wtpwebapps" hostname="localhost" id="testserver" name="testserver" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
     <list key="modules" value0="junit::org.eclipse.jst.jee.server:junit::jst.web::3.1"/>
