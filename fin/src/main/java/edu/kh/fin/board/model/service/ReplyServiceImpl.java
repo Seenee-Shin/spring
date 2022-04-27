@@ -17,11 +17,11 @@ public class ReplyServiceImpl implements ReplyService {
 
 	
 	
-	@Override //상속받은 메소드를 자식클래스에서 제정의
-	public List<Reply> selectList(int boardNo) {
-		// TODO Auto-generated method stub
-		return dao.selectList(boardNo);
-	}
+//	@Override //상속받은 메소드를 자식클래스에서 제정의
+//	public List<Reply> selectList(int boardNo) {
+//		// TODO Auto-generated method stub
+//		//return dao.selectList(boardNo);
+//	}
 
 
 

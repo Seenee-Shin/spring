@@ -1,0 +1,13 @@
+2022-04-06 17:22:26 [INFO] Root WebApplicationContext: initialization started
+2022-04-06 17:22:29 [INFO] Root WebApplicationContext initialized in 2907 ms
+2022-04-06 17:22:29 [INFO] Initializing Servlet 'appServlet'
+2022-04-06 17:22:35 [INFO] Completed initialization in 5351 ms
+2022-04-06 17:22:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-06 17:41:55 [INFO] Root WebApplicationContext: initialization started
+2022-04-06 17:41:57 [INFO] Root WebApplicationContext initialized in 2458 ms
+2022-04-06 17:41:57 [INFO] Initializing Servlet 'appServlet'
+2022-04-06 17:42:02 [INFO] Completed initialization in 4766 ms
+2022-04-06 17:42:07 [INFO] Root WebApplicationContext: initialization started
+2022-04-06 17:42:09 [INFO] Root WebApplicationContext initialized in 2168 ms
+2022-04-06 17:42:09 [INFO] Initializing Servlet 'appServlet'
+2022-04-06 17:42:13 [INFO] Completed initialization in 3889 ms

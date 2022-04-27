@@ -15,7 +15,7 @@
       
 	</resultMap>
 	
-	<select id="selectList"  resultMap="replyRm">
+ 	<select id="selectList"  resultMap="replyRm">
 		SELECT LEVEL,R.* FROM 
 		  (SELECT REPLY_NO, REPLY_CONTENT, TO_CHAR(REPLY_CREATE_DT, 'YYYY"년" MM"월" DD"일" HH24"시" MI"분" SS"초"') REPLY_CREATE_DT,
 		        BOARD_NO, REPLY.STATUS_CD, PARENT_REPLY_NO,MEMBER_NO,MEMBER_NM
@@ -26,7 +26,7 @@
 		START WITH PARENT_REPLY_NO IS NULL
 		CONNECT BY PRIOR REPLY_NO = PARENT_REPLY_NO
 		ORDER SIBLINGS BY REPLY_NO
-	</select>
+	</select> 
 	
 	<!-- 댓글 INSERT -->
 	<insert id="insertReply">

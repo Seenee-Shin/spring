@@ -111,9 +111,9 @@ public class BoardController {
 		//조회 결과에 따른 처리
 		if(board != null) { 
 			//댓글 목록 조회 Service호출 
-			List<Reply> rList = replyService.selectList(boardNo);
+			//List<Reply> rList = replyService.selectList(boardNo);
 			
-			md.addAttribute("rList", rList);
+			//md.addAttribute("rList", rList);
 			
 			//게시글이 존재할 때 
 			md.addAttribute("board",board);

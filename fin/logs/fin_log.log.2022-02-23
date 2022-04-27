@@ -1,0 +1,319 @@
+2022-02-23 12:17:56 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 12:18:02 [INFO] Root WebApplicationContext initialized in 5456 ms
+2022-02-23 12:18:02 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 12:18:12 [INFO] Completed initialization in 10223 ms
+2022-02-23 12:18:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 20:14:31 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 20:14:33 [INFO] Root WebApplicationContext initialized in 2268 ms
+2022-02-23 20:14:33 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 20:14:38 [INFO] Completed initialization in 4456 ms
+2022-02-23 20:14:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 20:14:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 20:15:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]WorryBoardController.worryBoard()
+2022-02-23 20:15:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 20:15:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 20:15:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:15:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:16:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:16:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:54:46 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 20:54:48 [INFO] Root WebApplicationContext initialized in 2683 ms
+2022-02-23 20:54:48 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 20:54:53 [INFO] Completed initialization in 4680 ms
+2022-02-23 20:54:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:55:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 20:55:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 20:55:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 20:55:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 20:55:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 20:55:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 20:55:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:55:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:55:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:57:14 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 20:57:16 [INFO] Root WebApplicationContext initialized in 2174 ms
+2022-02-23 20:57:16 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 20:57:21 [INFO] Completed initialization in 4374 ms
+2022-02-23 20:57:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:57:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 20:59:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:00:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:00:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:02:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:02:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:02:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:02:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:03:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:03:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:03:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:03:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:05:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:05:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:05:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:05:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:06:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:06:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:06:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:06:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:10:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:10:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:11:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:11:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:11:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:12:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:12:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:12:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:12:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-23 21:12:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:12:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:13:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:13:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:13:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:13:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:13:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:13:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:13:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:13:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:13:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:13:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proList()
+2022-02-23 21:13:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-02-23 21:13:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()
+2022-02-23 21:13:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proView()
+2022-02-23 21:13:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.starPointAverage()
+2022-02-23 21:13:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.starPointSelect()
+2022-02-23 21:13:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.checkWish()
+2022-02-23 21:13:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.reviewAdd()
+2022-02-23 21:13:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:14:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proView()
+2022-02-23 21:14:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.starPointSelect()
+2022-02-23 21:14:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.starPointAverage()
+2022-02-23 21:14:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.checkWish()
+2022-02-23 21:14:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]MindPostController.MindPostList()
+2022-02-23 21:14:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:14:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-23 21:14:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:14:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:14:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SocialController.login()
+2022-02-23 21:14:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]MindPostController.MindPostList()
+2022-02-23 21:14:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:14:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:14:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:14:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:16:31 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:16:33 [INFO] Root WebApplicationContext initialized in 2282 ms
+2022-02-23 21:16:33 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:16:36 [WARN] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'freeBoardController' defined in file [C:\workspace\Framework\mind\target\classes\edu\kh\mind\board\controller\FreeBoardController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [edu.kh.mind.board.controller.FreeBoardController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "enum Identifier" to complete EnumHeader
+
+2022-02-23 21:16:36 [ERROR] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'freeBoardController' defined in file [C:\workspace\Framework\mind\target\classes\edu\kh\mind\board\controller\FreeBoardController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [edu.kh.mind.board.controller.FreeBoardController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "enum Identifier" to complete EnumHeader
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1213)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1173)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1118)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1011)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4952)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5266)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3800)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:297)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:5603)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1368)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [edu.kh.mind.board.controller.FreeBoardController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "enum Identifier" to complete EnumHeader
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:217)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1310)
+	... 31 more
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "enum Identifier" to complete EnumHeader
+
+	at edu.kh.mind.board.controller.FreeBoardController.<init>(FreeBoardController.java:294)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:204)
+	... 33 more
+2022-02-23 21:22:19 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:22:22 [INFO] Root WebApplicationContext initialized in 2192 ms
+2022-02-23 21:22:22 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:22:26 [INFO] Completed initialization in 3858 ms
+2022-02-23 21:22:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:22:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:22:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:25:16 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:25:18 [INFO] Root WebApplicationContext initialized in 1802 ms
+2022-02-23 21:25:18 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:25:21 [INFO] Completed initialization in 3558 ms
+2022-02-23 21:25:39 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:25:41 [INFO] Root WebApplicationContext initialized in 2340 ms
+2022-02-23 21:25:41 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:25:45 [INFO] Completed initialization in 3516 ms
+2022-02-23 21:26:18 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:26:20 [INFO] Root WebApplicationContext initialized in 2084 ms
+2022-02-23 21:26:20 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:26:23 [INFO] Completed initialization in 3421 ms
+2022-02-23 21:28:29 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:28:31 [INFO] Root WebApplicationContext initialized in 1727 ms
+2022-02-23 21:28:31 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:28:34 [INFO] Completed initialization in 3656 ms
+2022-02-23 21:29:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:29:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:29:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:29:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:29:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:29:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:29:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:29:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:29:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:29:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:30:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:30:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:30:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:30:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:30:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:30:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-23 21:32:13 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:32:16 [INFO] Root WebApplicationContext initialized in 2328 ms
+2022-02-23 21:32:16 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:32:20 [INFO] Completed initialization in 3798 ms
+2022-02-23 21:32:26 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:32:28 [INFO] Root WebApplicationContext initialized in 2088 ms
+2022-02-23 21:32:28 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:32:32 [INFO] Completed initialization in 3948 ms
+2022-02-23 21:32:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:32:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:32:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:32:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:32:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:32:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:32:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:32:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:32:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:32:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-23 21:34:02 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:34:04 [INFO] Root WebApplicationContext initialized in 1940 ms
+2022-02-23 21:34:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:34:15 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:34:17 [INFO] Root WebApplicationContext initialized in 2151 ms
+2022-02-23 21:34:17 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:34:22 [INFO] Completed initialization in 4113 ms
+2022-02-23 21:34:22 [INFO] [ip]127.0.0.1 [Controller]HomeController.home()
+2022-02-23 21:34:22 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:34:34 [INFO] [ip]127.0.0.1 [Controller]PopupController.layerPopup()
+2022-02-23 21:34:35 [INFO] [ip]127.0.0.1 [Controller]PopupController.layerPopup()
+2022-02-23 21:34:36 [INFO] [ip]127.0.0.1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:34:36 [INFO] [ip]127.0.0.1 [Controller]HomeController.home()
+2022-02-23 21:34:38 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:34:39 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:34:41 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:34:42 [INFO] [ip]127.0.0.1 [Controller]PopupController.layerPopup()
+2022-02-23 21:34:46 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:35:42 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:35:44 [INFO] Root WebApplicationContext initialized in 2149 ms
+2022-02-23 21:35:44 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:35:48 [INFO] Completed initialization in 4182 ms
+2022-02-23 21:35:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:35:49 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:35:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:35:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:35:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:35:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:35:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:35:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:35:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:36:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:36:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:36:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:36:07 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:37:35 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:37:37 [INFO] Root WebApplicationContext initialized in 2003 ms
+2022-02-23 21:37:37 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:37:41 [INFO] Completed initialization in 3703 ms
+2022-02-23 21:38:14 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:38:17 [INFO] Root WebApplicationContext initialized in 2116 ms
+2022-02-23 21:38:17 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:38:21 [INFO] Completed initialization in 4032 ms
+2022-02-23 21:38:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:38:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:38:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:38:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:38:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:38:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:38:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:38:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:38:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:38:41 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:39:33 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:39:35 [INFO] Root WebApplicationContext initialized in 1938 ms
+2022-02-23 21:39:35 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:39:38 [INFO] Completed initialization in 3698 ms
+2022-02-23 21:40:02 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:40:04 [INFO] Root WebApplicationContext initialized in 2201 ms
+2022-02-23 21:40:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:40:09 [INFO] Completed initialization in 4139 ms
+2022-02-23 21:40:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:40:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:40:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:40:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:40:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:40:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:40:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:40:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:40:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:40:20 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:40:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:40:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:40:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:40:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:40:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:40:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:40:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:40:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:40:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:40:35 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:48:18 [INFO] Root WebApplicationContext: initialization started
+2022-02-23 21:48:21 [INFO] Root WebApplicationContext initialized in 2682 ms
+2022-02-23 21:48:21 [INFO] Initializing Servlet 'appServlet'
+2022-02-23 21:48:25 [INFO] Completed initialization in 3979 ms
+2022-02-23 21:52:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:52:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:52:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:52:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-23 21:52:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-23 21:53:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:53:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:53:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:53:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-23 21:53:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-02-23 21:53:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:53:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-23 21:53:37 [WARN] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "report"]
+2022-02-23 21:53:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:53:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-02-23 21:53:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()

@@ -23,17 +23,17 @@ public class ReplyController {
 	//@ResponseBody : 주소값이 아닌 값 자체를 return할때 사용 (비동기 통신(ajax)에서 주로 사용)
 	//RestFull : 특정한 값만 얻어옴 
 
-	//댓글 목록 조회
-	@RequestMapping(value = "select", method = RequestMethod.GET)
-	public String selectList(int boardNo) { //ajax 코드에 작성된 데이터 속성의 Key값
-		
-		List<Reply> rList = service.selectList(boardNo);
-		
-		//조회된 rList를 json 형태로 변경 
-		
-		return new Gson().toJson(rList);
-		
-	}
+//	//댓글 목록 조회
+//	@RequestMapping(value = "select", method = RequestMethod.GET)
+//	public String selectList(int boardNo) { //ajax 코드에 작성된 데이터 속성의 Key값
+//		
+//		List<Reply> rList = service.selectList(boardNo);
+//		
+//		//조회된 rList를 json 형태로 변경 
+//		
+//		return new Gson().toJson(rList);
+//		
+//	}
 	
 	//댓글 입력 
 	@RequestMapping(value = "insert", method = RequestMethod.POST)

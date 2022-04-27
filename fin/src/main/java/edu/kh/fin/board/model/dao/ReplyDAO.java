@@ -19,10 +19,10 @@ public class ReplyDAO {
 	 * @param boardNo
 	 * @return List rList
 	 */
-	public List<Reply> selectList(int boardNo) {
-		
-		return sqlSession.selectList("replyMapper.selectList", boardNo);
-	}
+//	public List<Reply> selectList(int boardNo) {
+//		
+//		//return sqlSession.selectList("replyMapper.selectList", boardNo);
+//	}
 
 	public int insertReply(Reply reply) {
 		// TODO Auto-generated method stub

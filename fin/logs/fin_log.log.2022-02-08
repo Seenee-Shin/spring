@@ -1,0 +1,1692 @@
+2022-02-08 00:01:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:01:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:03:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:03:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:05:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:05:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:06:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:06:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:08:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:08:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:13:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:13:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:15:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:15:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:20:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:20:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:21:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 00:21:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 09:16:30 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:16:32 [INFO] Root WebApplicationContext initialized in 2177 ms
+2022-02-08 09:16:32 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:16:36 [INFO] Completed initialization in 4443 ms
+2022-02-08 09:16:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 09:16:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 09:16:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 09:16:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 09:16:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 09:16:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]WorryBoardController.worryBoard()
+2022-02-08 09:16:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]WorryBoardController.worryList()
+2022-02-08 09:20:28 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:20:30 [INFO] Root WebApplicationContext initialized in 1844 ms
+2022-02-08 09:20:30 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:20:34 [INFO] Completed initialization in 4338 ms
+2022-02-08 09:20:49 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:20:51 [INFO] Root WebApplicationContext initialized in 1964 ms
+2022-02-08 09:20:51 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:20:55 [INFO] Completed initialization in 3897 ms
+2022-02-08 09:21:10 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:21:12 [INFO] Root WebApplicationContext initialized in 1666 ms
+2022-02-08 09:21:12 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:21:16 [INFO] Completed initialization in 3605 ms
+2022-02-08 09:36:44 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:36:46 [INFO] Root WebApplicationContext initialized in 2092 ms
+2022-02-08 09:36:47 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:36:51 [INFO] Completed initialization in 4466 ms
+2022-02-08 09:36:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 09:37:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 09:37:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailConfirm()
+2022-02-08 09:37:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.insertproDetail()
+2022-02-08 09:37:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:38:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:38:26 [WARN] No mapping for POST /mind/adminPro/update/update/41
+2022-02-08 09:42:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:42:05 [INFO] Root WebApplicationContext initialized in 2104 ms
+2022-02-08 09:42:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:42:09 [INFO] Completed initialization in 4512 ms
+2022-02-08 09:42:10 [WARN] No mapping for POST /mind/adminPro/update/update/41
+2022-02-08 09:42:39 [WARN] No mapping for GET /mind/adminPro/update/update/41
+2022-02-08 09:42:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:43:03 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 09:44:30 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:44:32 [INFO] Root WebApplicationContext initialized in 1781 ms
+2022-02-08 09:44:32 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:44:36 [INFO] Completed initialization in 3777 ms
+2022-02-08 09:45:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:45:05 [INFO] Root WebApplicationContext initialized in 1713 ms
+2022-02-08 09:45:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:45:19 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:45:21 [INFO] Root WebApplicationContext initialized in 2039 ms
+2022-02-08 09:45:21 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:45:25 [INFO] Completed initialization in 4204 ms
+2022-02-08 09:45:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 09:45:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 09:45:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 09:45:59 [WARN] No mapping for GET /mind/adminPro/yupdate/41
+2022-02-08 09:46:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:46:36 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 09:47:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:49:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:49:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:49:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:50:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:50:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:50:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:50:22 [WARN] Encoded password does not look like BCrypt
+2022-02-08 09:50:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:50:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:50:34 [WARN] Encoded password does not look like BCrypt
+2022-02-08 09:50:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:50:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:50:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:50:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:51:28 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:51:30 [INFO] Root WebApplicationContext initialized in 2022 ms
+2022-02-08 09:51:30 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:51:35 [INFO] Completed initialization in 4549 ms
+2022-02-08 09:51:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:51:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:51:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 09:51:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:51:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:51:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:51:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:51:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:52:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:52:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:52:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proReservation()
+2022-02-08 09:56:59 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:57:01 [INFO] Root WebApplicationContext initialized in 1990 ms
+2022-02-08 09:57:01 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:57:05 [INFO] Completed initialization in 3931 ms
+2022-02-08 09:57:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 09:57:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 09:57:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 09:57:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:57:48 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 09:57:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 09:58:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:58:44 [INFO] Root WebApplicationContext initialized in 1542 ms
+2022-02-08 09:58:44 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:58:48 [INFO] Completed initialization in 3666 ms
+2022-02-08 09:59:01 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:59:03 [INFO] Root WebApplicationContext initialized in 1549 ms
+2022-02-08 09:59:03 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:59:06 [INFO] Completed initialization in 3257 ms
+2022-02-08 09:59:33 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:59:35 [INFO] Root WebApplicationContext initialized in 1677 ms
+2022-02-08 09:59:35 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:59:49 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 09:59:50 [INFO] Root WebApplicationContext initialized in 1861 ms
+2022-02-08 09:59:51 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 09:59:54 [INFO] Completed initialization in 3653 ms
+2022-02-08 09:59:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 10:00:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proRegister()
+2022-02-08 10:00:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 10:00:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 10:00:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 10:00:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 10:00:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 10:00:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 10:00:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 10:00:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 10:00:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 10:00:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 10:01:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 10:04:21 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 10:04:23 [INFO] Root WebApplicationContext initialized in 1863 ms
+2022-02-08 10:04:23 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 10:04:27 [INFO] Completed initialization in 3758 ms
+2022-02-08 10:04:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 10:04:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 10:04:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 10:04:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 10:04:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 10:04:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 10:04:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 10:04:57 [WARN] No mapping for GET /mind/update/32
+2022-02-08 11:12:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:12:05 [INFO] Root WebApplicationContext initialized in 1806 ms
+2022-02-08 11:12:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:12:09 [INFO] Completed initialization in 3832 ms
+2022-02-08 11:12:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 11:12:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:12:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:12:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:12:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:12:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:13:50 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:13:51 [INFO] Root WebApplicationContext initialized in 1871 ms
+2022-02-08 11:13:52 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:13:55 [INFO] Completed initialization in 3731 ms
+2022-02-08 11:13:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:14:10 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 11:14:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:14:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:14:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:14:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:14:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:14:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:14:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:14:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:15:58 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:16:00 [INFO] Root WebApplicationContext initialized in 1794 ms
+2022-02-08 11:16:00 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:16:04 [INFO] Completed initialization in 3630 ms
+2022-02-08 11:16:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:16:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:16:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:16:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:16:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:16:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:16:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:16:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:17:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:17:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:17:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:18:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:19:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:21:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:21:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:21:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:21:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:21:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:21:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:22:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:22:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:24:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:25:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:25:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:25:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:25:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:25:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:26:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:26:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:26:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:27:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:27:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:27:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:30:16 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:30:18 [INFO] Root WebApplicationContext initialized in 2084 ms
+2022-02-08 11:30:18 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:30:22 [INFO] Completed initialization in 3582 ms
+2022-02-08 11:30:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:30:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:30:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:30:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:30:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:31:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:31:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:31:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:39:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailConfirm()
+2022-02-08 11:39:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.insertproDetail()
+2022-02-08 11:39:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailConfirm()
+2022-02-08 11:39:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:40:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:40:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proReservation()
+2022-02-08 11:40:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:40:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:41:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:41:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:41:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 11:44:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:44:59 [INFO] Root WebApplicationContext initialized in 1635 ms
+2022-02-08 11:44:59 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:45:02 [INFO] Completed initialization in 3199 ms
+2022-02-08 11:45:29 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:45:30 [INFO] Root WebApplicationContext initialized in 1613 ms
+2022-02-08 11:45:30 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:45:34 [INFO] Completed initialization in 3157 ms
+2022-02-08 11:46:26 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:46:28 [INFO] Root WebApplicationContext initialized in 1705 ms
+2022-02-08 11:46:28 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:46:31 [INFO] Completed initialization in 3444 ms
+2022-02-08 11:46:45 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:46:46 [INFO] Root WebApplicationContext initialized in 1566 ms
+2022-02-08 11:46:46 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:46:50 [INFO] Completed initialization in 3497 ms
+2022-02-08 11:47:30 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:47:32 [INFO] Root WebApplicationContext initialized in 1589 ms
+2022-02-08 11:47:32 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:47:35 [INFO] Completed initialization in 3285 ms
+2022-02-08 11:47:55 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:47:57 [INFO] Root WebApplicationContext initialized in 1796 ms
+2022-02-08 11:47:57 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:48:01 [INFO] Completed initialization in 3779 ms
+2022-02-08 11:48:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:48:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:48:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:48:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:48:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:48:41 [WARN] No mapping for GET /mind/update/32
+2022-02-08 11:48:47 [WARN] No mapping for GET /mind/update/32
+2022-02-08 11:48:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:48:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:51:53 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:51:55 [INFO] Root WebApplicationContext initialized in 1766 ms
+2022-02-08 11:51:55 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:51:59 [INFO] Completed initialization in 3620 ms
+2022-02-08 11:52:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 11:52:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 11:52:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 11:52:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 11:52:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:53:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 11:53:10 [WARN] No mapping for GET /mind/update/32
+2022-02-08 11:54:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:54:04 [INFO] Root WebApplicationContext initialized in 1522 ms
+2022-02-08 11:54:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:54:08 [INFO] Completed initialization in 3408 ms
+2022-02-08 11:54:35 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:54:36 [INFO] Root WebApplicationContext initialized in 1453 ms
+2022-02-08 11:54:36 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:54:39 [INFO] Completed initialization in 3167 ms
+2022-02-08 11:55:06 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:55:08 [INFO] Root WebApplicationContext initialized in 1388 ms
+2022-02-08 11:55:08 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:55:11 [INFO] Completed initialization in 3233 ms
+2022-02-08 11:55:24 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:55:26 [INFO] Root WebApplicationContext initialized in 1432 ms
+2022-02-08 11:55:26 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:55:29 [INFO] Completed initialization in 3368 ms
+2022-02-08 11:55:56 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:55:58 [INFO] Root WebApplicationContext initialized in 1456 ms
+2022-02-08 11:55:58 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:56:01 [INFO] Completed initialization in 3222 ms
+2022-02-08 11:56:28 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:56:29 [INFO] Root WebApplicationContext initialized in 1435 ms
+2022-02-08 11:56:29 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:56:33 [INFO] Completed initialization in 3255 ms
+2022-02-08 11:56:46 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:56:48 [INFO] Root WebApplicationContext initialized in 1420 ms
+2022-02-08 11:56:48 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:56:51 [INFO] Completed initialization in 3295 ms
+2022-02-08 11:57:18 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:57:19 [INFO] Root WebApplicationContext initialized in 1403 ms
+2022-02-08 11:57:20 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:57:23 [INFO] Completed initialization in 3123 ms
+2022-02-08 11:58:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:58:04 [INFO] Root WebApplicationContext initialized in 1551 ms
+2022-02-08 11:58:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:58:08 [INFO] Completed initialization in 3366 ms
+2022-02-08 11:58:21 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:58:23 [INFO] Root WebApplicationContext initialized in 1417 ms
+2022-02-08 11:58:23 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 11:58:26 [INFO] Completed initialization in 3193 ms
+2022-02-08 11:58:55 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 11:58:56 [WARN] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is '/mappers/profession-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+2022-02-08 11:58:56 [ERROR] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is '/mappers/profession-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3800)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:297)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:5603)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1368)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is '/mappers/profession-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:590)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:491)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 23 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is '/mappers/profession-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:122)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:99)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:587)
+	... 26 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is '/mappers/profession-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:123)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:95)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:379)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:120)
+	... 28 more
+Caused by: org.apache.ibatis.builder.BuilderException: Parsing error was found in mapping #{}.  Check syntax #{property|(expression), var1=value1, var2=value2, ...} 
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.parseParameterMapping(SqlSourceBuilder.java:152)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.buildParameterMapping(SqlSourceBuilder.java:92)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.handleToken(SqlSourceBuilder.java:87)
+	at org.apache.ibatis.parsing.GenericTokenParser.parse(GenericTokenParser.java:77)
+	at org.apache.ibatis.builder.SqlSourceBuilder.parse(SqlSourceBuilder.java:50)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.<init>(RawSqlSource.java:46)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.<init>(RawSqlSource.java:40)
+	at org.apache.ibatis.scripting.xmltags.XMLScriptBuilder.parseScriptNode(XMLScriptBuilder.java:72)
+	at org.apache.ibatis.scripting.xmltags.XMLLanguageDriver.createSqlSource(XMLLanguageDriver.java:44)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:96)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:138)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:131)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:121)
+	... 31 more
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1512)
+	at org.apache.ibatis.builder.ParameterExpression.parse(ParameterExpression.java:44)
+	at org.apache.ibatis.builder.ParameterExpression.<init>(ParameterExpression.java:39)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.parseParameterMapping(SqlSourceBuilder.java:148)
+	... 43 more
+2022-02-08 12:03:59 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:04:01 [INFO] Root WebApplicationContext initialized in 1817 ms
+2022-02-08 12:04:01 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:04:05 [INFO] Completed initialization in 3887 ms
+2022-02-08 12:04:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 12:04:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:04:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:04:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:04:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:04:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:04:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 12:04:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:04:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:04:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:04:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:04:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:04:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:04:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:04:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 12:05:46 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:05:47 [INFO] Root WebApplicationContext initialized in 1561 ms
+2022-02-08 12:05:47 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:05:51 [INFO] Completed initialization in 3399 ms
+2022-02-08 12:07:41 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:07:42 [INFO] Root WebApplicationContext initialized in 1753 ms
+2022-02-08 12:07:42 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:07:46 [INFO] Completed initialization in 3604 ms
+2022-02-08 12:08:02 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:08:04 [INFO] Root WebApplicationContext initialized in 1584 ms
+2022-02-08 12:08:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:08:07 [INFO] Completed initialization in 3417 ms
+2022-02-08 12:08:42 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:08:44 [INFO] Root WebApplicationContext initialized in 1846 ms
+2022-02-08 12:08:44 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:08:48 [INFO] Completed initialization in 3656 ms
+2022-02-08 12:08:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:08:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:08:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:09:02 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 12:10:25 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:10:27 [INFO] Root WebApplicationContext initialized in 1581 ms
+2022-02-08 12:10:27 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:10:30 [INFO] Completed initialization in 3363 ms
+2022-02-08 12:10:44 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:10:46 [INFO] Root WebApplicationContext initialized in 1643 ms
+2022-02-08 12:10:46 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:10:49 [INFO] Completed initialization in 3364 ms
+2022-02-08 12:11:02 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:11:04 [INFO] Root WebApplicationContext initialized in 1497 ms
+2022-02-08 12:11:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:11:41 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:11:43 [INFO] Root WebApplicationContext initialized in 1946 ms
+2022-02-08 12:11:43 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:11:47 [INFO] Completed initialization in 3748 ms
+2022-02-08 12:11:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:11:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:11:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:11:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:11:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:12:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:12:12 [WARN] No mapping for GET /mind/AdminProProfile/32
+2022-02-08 12:13:56 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:13:58 [INFO] Root WebApplicationContext initialized in 1813 ms
+2022-02-08 12:13:58 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:14:02 [INFO] Completed initialization in 3585 ms
+2022-02-08 12:14:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:14:08 [WARN] No mapping for GET /mind/AdminProProfile/32
+2022-02-08 12:14:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:14:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:14:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:14:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:14:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:14:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:14:47 [WARN] No mapping for GET /mind/AdminProProfile/32
+2022-02-08 12:15:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:17:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:17:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:19:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:20:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:20:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:21:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:22:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:23:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:23:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:23:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:24:25 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:24:27 [INFO] Root WebApplicationContext initialized in 1832 ms
+2022-02-08 12:24:27 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:24:31 [INFO] Completed initialization in 3632 ms
+2022-02-08 12:24:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:24:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:24:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:24:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:24:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:24:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:25:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:25:10 [WARN] No mapping for GET /mind/update/32
+2022-02-08 12:26:11 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:26:12 [INFO] Root WebApplicationContext initialized in 1509 ms
+2022-02-08 12:26:12 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:26:24 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:26:25 [INFO] Root WebApplicationContext initialized in 1815 ms
+2022-02-08 12:26:25 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:26:29 [INFO] Completed initialization in 3671 ms
+2022-02-08 12:26:41 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:26:43 [INFO] Root WebApplicationContext initialized in 1955 ms
+2022-02-08 12:26:43 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:26:46 [INFO] Completed initialization in 3753 ms
+2022-02-08 12:26:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:26:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:26:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:26:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:26:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:27:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:27:03 [WARN] No mapping for GET /mind/AdminProProfile/32
+2022-02-08 12:28:10 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:28:11 [INFO] Root WebApplicationContext initialized in 1627 ms
+2022-02-08 12:28:12 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:28:15 [INFO] Completed initialization in 3494 ms
+2022-02-08 12:29:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:29:05 [INFO] Root WebApplicationContext initialized in 1857 ms
+2022-02-08 12:29:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:29:09 [INFO] Completed initialization in 3717 ms
+2022-02-08 12:29:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:29:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:29:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:29:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:30:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:30:09 [WARN] No mapping for GET /mind/AdminProProfile/32
+2022-02-08 12:33:50 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:33:52 [INFO] Root WebApplicationContext initialized in 1903 ms
+2022-02-08 12:33:52 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:33:56 [INFO] Completed initialization in 3771 ms
+2022-02-08 12:33:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:33:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 12:34:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 12:34:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 12:34:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:34:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 12:34:28 [WARN] No mapping for GET /mind/adminPro/update/adminPro/proLogin
+2022-02-08 12:35:06 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:44:55 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 12:44:57 [INFO] Root WebApplicationContext initialized in 1818 ms
+2022-02-08 12:44:57 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 12:45:01 [INFO] Completed initialization in 3616 ms
+2022-02-08 12:45:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:01:28 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:01:30 [WARN] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+2022-02-08 14:01:30 [ERROR] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3800)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:297)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:5603)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1400)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1368)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:590)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:491)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 23 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:122)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:99)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:587)
+	... 26 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+	at org.apache.ibatis.parsing.XPathParser.createDocument(XPathParser.java:263)
+	at org.apache.ibatis.parsing.XPathParser.<init>(XPathParser.java:127)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.<init>(XMLMapperBuilder.java:81)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:378)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:120)
+	... 28 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 47; columnNumber: 5; 주석에서는 "--" 문자열이 허용되지 않습니다.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanComment(XMLScanner.java:818)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanComment(XMLDocumentFragmentScannerImpl.java:1079)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2914)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at org.apache.ibatis.parsing.XPathParser.createDocument(XPathParser.java:261)
+	... 32 more
+2022-02-08 14:08:12 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:08:14 [WARN] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+2022-02-08 14:08:14 [ERROR] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactoryBean' defined in class path resource [spring/root-context.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis-config.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:590)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:491)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 21 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:122)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:99)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:587)
+	... 24 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+	at org.apache.ibatis.parsing.XPathParser.createDocument(XPathParser.java:263)
+	at org.apache.ibatis.parsing.XPathParser.<init>(XPathParser.java:127)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.<init>(XMLMapperBuilder.java:81)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:378)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:120)
+	... 26 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 226; columnNumber: 10; 요소 유형 "mapper"의 콘텐츠는 "(cache-ref|cache|resultMap*|parameterMap*|sql*|insert*|update*|delete*|select*)+"과(와) 일치해야 합니다.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:135)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.dtd.XMLDTDValidator.handleEndElement(XMLDTDValidator.java:1923)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.dtd.XMLDTDValidator.endElement(XMLDTDValidator.java:865)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1728)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2899)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at org.apache.ibatis.parsing.XPathParser.createDocument(XPathParser.java:261)
+	... 30 more
+2022-02-08 14:09:14 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:09:16 [INFO] Root WebApplicationContext initialized in 1923 ms
+2022-02-08 14:09:16 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:09:20 [INFO] Completed initialization in 3913 ms
+2022-02-08 14:09:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:09:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:09:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:09:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:09:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:10:12 [WARN] No mapping for GET /mind/free/view
+2022-02-08 14:10:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 14:10:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 14:11:10 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:11:12 [INFO] Root WebApplicationContext initialized in 1621 ms
+2022-02-08 14:11:12 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:11:15 [INFO] Completed initialization in 3311 ms
+2022-02-08 14:11:30 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:11:31 [INFO] Root WebApplicationContext initialized in 1540 ms
+2022-02-08 14:11:31 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:11:35 [INFO] Completed initialization in 3401 ms
+2022-02-08 14:11:49 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:11:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:11:58 [INFO] Root WebApplicationContext initialized in 1813 ms
+2022-02-08 14:11:59 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:12:02 [INFO] Completed initialization in 3778 ms
+2022-02-08 14:12:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 14:12:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 14:14:00 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:14:01 [INFO] Root WebApplicationContext initialized in 1790 ms
+2022-02-08 14:14:02 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:14:05 [INFO] Completed initialization in 3620 ms
+2022-02-08 14:14:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLoginForm()
+2022-02-08 14:14:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.emailDupCheck()
+2022-02-08 14:14:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.proLogin()
+2022-02-08 14:14:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 14:14:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 14:14:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.exceptionHandler()
+2022-02-08 14:15:54 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:15:56 [INFO] Root WebApplicationContext initialized in 1916 ms
+2022-02-08 14:15:56 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:16:00 [INFO] Completed initialization in 3944 ms
+2022-02-08 14:16:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]AdminProController.AdminProProfile()
+2022-02-08 14:16:30 [WARN] No mapping for POST /mind/adminPro/update/
+2022-02-08 14:22:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:22:05 [INFO] Root WebApplicationContext initialized in 1714 ms
+2022-02-08 14:22:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:22:09 [INFO] Completed initialization in 3299 ms
+2022-02-08 14:22:24 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:22:25 [INFO] Root WebApplicationContext initialized in 1464 ms
+2022-02-08 14:22:25 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:22:29 [INFO] Completed initialization in 3343 ms
+2022-02-08 14:22:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:22:58 [INFO] Root WebApplicationContext initialized in 1424 ms
+2022-02-08 14:22:58 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:23:02 [INFO] Completed initialization in 3243 ms
+2022-02-08 14:23:17 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:23:19 [INFO] Root WebApplicationContext initialized in 1489 ms
+2022-02-08 14:23:19 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:23:22 [INFO] Completed initialization in 3310 ms
+2022-02-08 14:24:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:24:05 [INFO] Root WebApplicationContext initialized in 1429 ms
+2022-02-08 14:24:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:24:08 [INFO] Completed initialization in 3263 ms
+2022-02-08 14:24:23 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:24:25 [INFO] Root WebApplicationContext initialized in 1493 ms
+2022-02-08 14:24:25 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:24:28 [INFO] Completed initialization in 3338 ms
+2022-02-08 14:24:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:24:58 [INFO] Root WebApplicationContext initialized in 1471 ms
+2022-02-08 14:24:59 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:25:02 [INFO] Completed initialization in 3315 ms
+2022-02-08 14:25:17 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:25:18 [INFO] Root WebApplicationContext initialized in 1454 ms
+2022-02-08 14:25:19 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:25:22 [INFO] Completed initialization in 3906 ms
+2022-02-08 14:25:38 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:25:39 [INFO] Root WebApplicationContext initialized in 1468 ms
+2022-02-08 14:25:39 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:25:42 [INFO] Completed initialization in 3427 ms
+2022-02-08 14:25:58 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:25:59 [INFO] Root WebApplicationContext initialized in 1479 ms
+2022-02-08 14:25:59 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:26:03 [INFO] Completed initialization in 3232 ms
+2022-02-08 14:26:18 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:26:19 [INFO] Root WebApplicationContext initialized in 1436 ms
+2022-02-08 14:26:19 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:26:23 [INFO] Completed initialization in 3272 ms
+2022-02-08 14:27:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:27:05 [INFO] Root WebApplicationContext initialized in 1508 ms
+2022-02-08 14:27:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:27:08 [INFO] Completed initialization in 3145 ms
+2022-02-08 14:27:37 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:27:38 [INFO] Root WebApplicationContext initialized in 1620 ms
+2022-02-08 14:27:38 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:27:42 [INFO] Completed initialization in 3267 ms
+2022-02-08 14:28:36 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:28:38 [INFO] Root WebApplicationContext initialized in 1372 ms
+2022-02-08 14:28:38 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:28:41 [INFO] Completed initialization in 3133 ms
+2022-02-08 14:28:56 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:28:57 [INFO] Root WebApplicationContext initialized in 1503 ms
+2022-02-08 14:28:58 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:29:01 [INFO] Completed initialization in 3319 ms
+2022-02-08 14:33:18 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:33:20 [INFO] Root WebApplicationContext initialized in 1850 ms
+2022-02-08 14:33:20 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:33:24 [INFO] Completed initialization in 3885 ms
+2022-02-08 14:33:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:33:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:33:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:33:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:33:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:33:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:33:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:39:40 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:39:41 [INFO] Root WebApplicationContext initialized in 1598 ms
+2022-02-08 14:39:41 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:39:45 [INFO] Completed initialization in 3342 ms
+2022-02-08 14:40:53 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:40:54 [INFO] Root WebApplicationContext initialized in 1470 ms
+2022-02-08 14:40:54 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:40:58 [INFO] Completed initialization in 3589 ms
+2022-02-08 14:41:13 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:41:14 [INFO] Root WebApplicationContext initialized in 1512 ms
+2022-02-08 14:41:15 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:41:18 [INFO] Completed initialization in 3354 ms
+2022-02-08 14:41:46 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:41:48 [INFO] Root WebApplicationContext initialized in 1447 ms
+2022-02-08 14:41:48 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:41:51 [INFO] Completed initialization in 3209 ms
+2022-02-08 14:43:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:43:59 [INFO] Root WebApplicationContext initialized in 1946 ms
+2022-02-08 14:43:59 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:44:03 [INFO] Completed initialization in 3765 ms
+2022-02-08 14:44:03 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:44:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:44:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:44:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:44:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:44:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:44:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:44:12 [INFO] [ip]127.0.0.1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:44:13 [INFO] [ip]127.0.0.1 [Controller]HomeController.home()
+2022-02-08 14:44:15 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:44:16 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:45:53 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:45:55 [INFO] Root WebApplicationContext initialized in 1962 ms
+2022-02-08 14:45:55 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:45:59 [INFO] Completed initialization in 3937 ms
+2022-02-08 14:45:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:46:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:46:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:46:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:46:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:46:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:46:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:46:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:47:38 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:47:40 [INFO] Root WebApplicationContext initialized in 1614 ms
+2022-02-08 14:47:40 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:47:44 [INFO] Completed initialization in 3546 ms
+2022-02-08 14:48:38 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:48:39 [INFO] Root WebApplicationContext initialized in 1566 ms
+2022-02-08 14:48:39 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:48:44 [INFO] Completed initialization in 4364 ms
+2022-02-08 14:52:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:52:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:52:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:52:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:52:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:52:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:52:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:52:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:54:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:54:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:54:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:54:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:55:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:55:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:55:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 14:56:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:56:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:56:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 14:57:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 14:57:38 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 14:57:39 [INFO] Root WebApplicationContext initialized in 1460 ms
+2022-02-08 14:57:39 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 14:57:43 [INFO] Completed initialization in 3223 ms
+2022-02-08 14:58:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:58:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:58:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:58:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:58:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 14:58:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:58:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 14:58:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 14:58:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:58:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 14:58:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:10:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:10:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:12:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:12:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:13:58 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 15:14:00 [INFO] Root WebApplicationContext initialized in 1781 ms
+2022-02-08 15:14:00 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 15:14:04 [INFO] Completed initialization in 3810 ms
+2022-02-08 15:14:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:14:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:14:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:14:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:14:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:14:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:14:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 15:14:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 15:14:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:14:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:15:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:15:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:17:22 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 15:17:24 [INFO] Root WebApplicationContext initialized in 1834 ms
+2022-02-08 15:17:24 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 15:17:27 [INFO] Completed initialization in 3768 ms
+2022-02-08 15:17:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:17:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:17:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:17:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:17:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 15:17:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 15:17:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:17:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:18:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:21:04 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 15:21:05 [INFO] Root WebApplicationContext initialized in 1823 ms
+2022-02-08 15:21:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 15:21:09 [INFO] Completed initialization in 3696 ms
+2022-02-08 15:21:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:21:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:21:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:21:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:21:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 15:21:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 15:21:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:21:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:21:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:25:09 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 15:25:11 [INFO] Root WebApplicationContext initialized in 1902 ms
+2022-02-08 15:25:11 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 15:25:15 [INFO] Completed initialization in 3844 ms
+2022-02-08 15:25:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:25:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:25:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:25:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:25:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 15:25:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 15:25:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:25:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:25:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:25:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:25:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:25:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:25:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:25:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 15:27:12 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 15:27:14 [INFO] Root WebApplicationContext initialized in 1971 ms
+2022-02-08 15:27:14 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 15:27:18 [INFO] Completed initialization in 3743 ms
+2022-02-08 15:27:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:27:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:27:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:27:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 15:27:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 15:27:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 15:27:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:27:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:28:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:31:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:31:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:32:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:33:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:33:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:33:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:34:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:34:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:34:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:35:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:35:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:35:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:42:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:42:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:42:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:47:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:47:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:47:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:48:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:49:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:49:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:50:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:50:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:50:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:50:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:50:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:51:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:52:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:52:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:52:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:52:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:55:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:57:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:57:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 15:58:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 15:58:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:00:34 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:00:36 [INFO] Root WebApplicationContext initialized in 2227 ms
+2022-02-08 16:00:36 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:00:40 [INFO] Completed initialization in 4325 ms
+2022-02-08 16:00:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:00:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:00:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:00:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:01:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:01:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:01:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:01:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:03:16 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:03:18 [INFO] Root WebApplicationContext initialized in 1830 ms
+2022-02-08 16:03:18 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:03:22 [INFO] Completed initialization in 3848 ms
+2022-02-08 16:04:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:04:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:04:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:04:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:04:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:04:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:04:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:04:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:04:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:04:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:04:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:04:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:04:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:04:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:05:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:05:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:05:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:06:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:07:04 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:07:07 [INFO] Root WebApplicationContext initialized in 2449 ms
+2022-02-08 16:07:07 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:07:11 [INFO] Completed initialization in 4407 ms
+2022-02-08 16:07:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:07:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:07:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:07:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:07:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:07:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:07:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:07:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:07:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:08:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:08:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:08:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:09:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:09:32 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:09:34 [INFO] Root WebApplicationContext initialized in 2216 ms
+2022-02-08 16:09:34 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:09:39 [INFO] Completed initialization in 4322 ms
+2022-02-08 16:09:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:09:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:09:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:09:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:09:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:09:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:09:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:09:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:09:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:09:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:10:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:10:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:10:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:10:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:12:24 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:12:26 [INFO] Root WebApplicationContext initialized in 2170 ms
+2022-02-08 16:12:27 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:12:31 [INFO] Completed initialization in 4102 ms
+2022-02-08 16:12:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:12:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:12:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:12:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:12:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:12:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:12:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:12:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:12:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:12:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:14:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:14:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:14:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:15:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:16:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:17:14 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:17:17 [INFO] Root WebApplicationContext initialized in 2144 ms
+2022-02-08 16:17:17 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:17:21 [INFO] Completed initialization in 4523 ms
+2022-02-08 16:17:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:17:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:17:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:17:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:17:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:17:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:17:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:17:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:17:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:17:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:18:36 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:18:38 [INFO] Root WebApplicationContext initialized in 2277 ms
+2022-02-08 16:18:38 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:18:43 [INFO] Completed initialization in 4406 ms
+2022-02-08 16:18:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:18:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:18:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:18:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:18:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:18:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:18:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:18:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:18:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:19:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:20:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 16:21:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:21:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:21:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:21:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:21:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:21:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:23:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:23:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:23:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:26:10 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:26:13 [INFO] Root WebApplicationContext initialized in 2232 ms
+2022-02-08 16:26:13 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:26:17 [INFO] Completed initialization in 4099 ms
+2022-02-08 16:26:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:26:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:26:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:26:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:26:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:26:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:26:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:26:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:26:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:28:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:31:39 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:31:41 [INFO] Root WebApplicationContext initialized in 2117 ms
+2022-02-08 16:31:41 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:31:45 [INFO] Completed initialization in 4234 ms
+2022-02-08 16:31:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:36:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:36:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:36:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:36:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:36:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:37:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:38:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:38:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:38:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:41:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:41:05 [INFO] Root WebApplicationContext initialized in 2331 ms
+2022-02-08 16:41:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:41:10 [INFO] Completed initialization in 4617 ms
+2022-02-08 16:41:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.logout()
+2022-02-08 16:41:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:41:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:41:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:41:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:41:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:41:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:41:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:41:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:42:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:42:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:43:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:43:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:43:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:44:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:45:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:45:45 [INFO] Root WebApplicationContext initialized in 2313 ms
+2022-02-08 16:45:45 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:45:49 [INFO] Completed initialization in 4487 ms
+2022-02-08 16:45:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:45:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:45:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:45:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:45:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 16:45:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 16:45:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 16:45:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:45:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:46:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:46:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:46:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:46:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 16:47:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 16:55:54 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 16:55:56 [INFO] Root WebApplicationContext initialized in 2024 ms
+2022-02-08 16:55:56 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 16:56:00 [INFO] Completed initialization in 3842 ms
+2022-02-08 16:56:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:00:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:00:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:01:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:01:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:01:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:01:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:01:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:01:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:01:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:01:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:08:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:08:45 [INFO] Root WebApplicationContext initialized in 1644 ms
+2022-02-08 17:08:45 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:08:48 [INFO] Completed initialization in 3307 ms
+2022-02-08 17:09:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:09:04 [INFO] Root WebApplicationContext initialized in 1552 ms
+2022-02-08 17:09:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:09:08 [INFO] Completed initialization in 3238 ms
+2022-02-08 17:10:28 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:10:29 [INFO] Root WebApplicationContext initialized in 1514 ms
+2022-02-08 17:10:29 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:10:32 [INFO] Completed initialization in 3149 ms
+2022-02-08 17:11:00 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:11:01 [INFO] Root WebApplicationContext initialized in 1524 ms
+2022-02-08 17:11:02 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:11:05 [INFO] Completed initialization in 3361 ms
+2022-02-08 17:11:59 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:12:00 [INFO] Root WebApplicationContext initialized in 1495 ms
+2022-02-08 17:12:01 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:12:04 [INFO] Completed initialization in 3247 ms
+2022-02-08 17:12:45 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:12:46 [INFO] Root WebApplicationContext initialized in 1572 ms
+2022-02-08 17:12:46 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:12:50 [INFO] Completed initialization in 3501 ms
+2022-02-08 17:13:04 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:13:05 [INFO] Root WebApplicationContext initialized in 1439 ms
+2022-02-08 17:13:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:13:09 [INFO] Completed initialization in 3217 ms
+2022-02-08 17:14:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:14:04 [INFO] Root WebApplicationContext initialized in 1410 ms
+2022-02-08 17:14:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:14:07 [INFO] Completed initialization in 3179 ms
+2022-02-08 17:14:36 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:14:37 [INFO] Root WebApplicationContext initialized in 1450 ms
+2022-02-08 17:14:37 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:14:40 [INFO] Completed initialization in 3185 ms
+2022-02-08 17:14:55 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:14:57 [INFO] Root WebApplicationContext initialized in 1422 ms
+2022-02-08 17:14:57 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:15:00 [INFO] Completed initialization in 3304 ms
+2022-02-08 17:15:41 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:15:42 [INFO] Root WebApplicationContext initialized in 1465 ms
+2022-02-08 17:15:42 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:15:46 [INFO] Completed initialization in 3439 ms
+2022-02-08 17:15:51 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:15:53 [INFO] Root WebApplicationContext initialized in 1797 ms
+2022-02-08 17:15:53 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:15:57 [INFO] Completed initialization in 3549 ms
+2022-02-08 17:15:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:16:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:16:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:16:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:16:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:16:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:16:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:16:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:16:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:16:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:16:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:16:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:18:58 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:19:00 [INFO] Root WebApplicationContext initialized in 1605 ms
+2022-02-08 17:19:00 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:19:03 [INFO] Completed initialization in 3437 ms
+2022-02-08 17:19:31 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:19:33 [INFO] Root WebApplicationContext initialized in 1578 ms
+2022-02-08 17:19:33 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:19:36 [INFO] Completed initialization in 3469 ms
+2022-02-08 17:20:52 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:20:54 [INFO] Root WebApplicationContext initialized in 1855 ms
+2022-02-08 17:20:54 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:20:58 [INFO] Completed initialization in 3796 ms
+2022-02-08 17:21:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:21:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:21:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:21:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:21:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:21:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:21:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:21:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:21:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:21:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:24:29 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:24:31 [INFO] Root WebApplicationContext initialized in 1601 ms
+2022-02-08 17:24:31 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:24:34 [INFO] Completed initialization in 3570 ms
+2022-02-08 17:24:50 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:24:52 [INFO] Root WebApplicationContext initialized in 1854 ms
+2022-02-08 17:24:52 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:24:55 [INFO] Completed initialization in 3343 ms
+2022-02-08 17:25:11 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:25:12 [INFO] Root WebApplicationContext initialized in 1463 ms
+2022-02-08 17:25:12 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:25:16 [INFO] Completed initialization in 3336 ms
+2022-02-08 17:25:31 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:25:33 [INFO] Root WebApplicationContext initialized in 1477 ms
+2022-02-08 17:25:33 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:25:36 [INFO] Completed initialization in 3236 ms
+2022-02-08 17:25:50 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:25:52 [INFO] Root WebApplicationContext initialized in 1441 ms
+2022-02-08 17:25:52 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:25:55 [INFO] Completed initialization in 3308 ms
+2022-02-08 17:26:36 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:26:38 [INFO] Root WebApplicationContext initialized in 1899 ms
+2022-02-08 17:26:38 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:26:42 [INFO] Completed initialization in 3887 ms
+2022-02-08 17:26:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:26:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:27:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:27:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:27:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:27:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:27:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:27:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:27:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:27:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:43:14 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:43:16 [INFO] Root WebApplicationContext initialized in 1817 ms
+2022-02-08 17:43:16 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:43:20 [INFO] Completed initialization in 3684 ms
+2022-02-08 17:43:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:43:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:43:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:43:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:43:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:43:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:43:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:43:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:43:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:43:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:44:52 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:44:54 [INFO] Root WebApplicationContext initialized in 1904 ms
+2022-02-08 17:44:54 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:44:57 [INFO] Completed initialization in 3546 ms
+2022-02-08 17:45:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:45:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:45:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:45:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:45:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:45:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:45:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:45:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:45:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:45:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:46:03 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:46:05 [INFO] Root WebApplicationContext initialized in 2255 ms
+2022-02-08 17:46:05 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:46:10 [INFO] Completed initialization in 4237 ms
+2022-02-08 17:46:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:46:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:46:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:46:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:46:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:46:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:46:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:46:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:46:30 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:47:55 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:47:57 [INFO] Root WebApplicationContext initialized in 1923 ms
+2022-02-08 17:47:57 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:48:01 [INFO] Completed initialization in 3897 ms
+2022-02-08 17:48:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:48:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:48:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:48:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:48:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:48:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:48:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:48:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:48:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:48:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:48:24 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:49:05 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:49:07 [INFO] Root WebApplicationContext initialized in 1798 ms
+2022-02-08 17:49:07 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:49:10 [INFO] Completed initialization in 3781 ms
+2022-02-08 17:49:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:49:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:49:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:49:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:49:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:49:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:49:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:49:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:49:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:49:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:52:42 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:52:44 [INFO] Root WebApplicationContext initialized in 1809 ms
+2022-02-08 17:52:44 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:52:48 [INFO] Completed initialization in 3680 ms
+2022-02-08 17:52:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:52:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:52:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:52:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:53:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:53:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:53:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:53:05 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:53:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:54:42 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:54:43 [INFO] Root WebApplicationContext initialized in 1595 ms
+2022-02-08 17:54:43 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:54:47 [INFO] Completed initialization in 3360 ms
+2022-02-08 17:55:21 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:55:22 [INFO] Root WebApplicationContext initialized in 1769 ms
+2022-02-08 17:55:23 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:55:26 [INFO] Completed initialization in 3572 ms
+2022-02-08 17:55:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:55:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:55:50 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:55:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:55:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:55:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:55:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:55:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:56:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:56:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:56:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:56:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:56:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:58:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:58:45 [INFO] Root WebApplicationContext initialized in 1638 ms
+2022-02-08 17:58:45 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:58:48 [INFO] Completed initialization in 3364 ms
+2022-02-08 17:58:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:58:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:58:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:58:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:59:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:59:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 17:59:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 17:59:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 17:59:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:59:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 17:59:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 17:59:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 17:59:52 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 17:59:54 [INFO] Root WebApplicationContext initialized in 1871 ms
+2022-02-08 17:59:54 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 17:59:58 [INFO] Completed initialization in 3679 ms
+2022-02-08 18:00:19 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:00:21 [INFO] Root WebApplicationContext initialized in 1812 ms
+2022-02-08 18:00:21 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:00:24 [INFO] Completed initialization in 3621 ms
+2022-02-08 18:00:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:00:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:00:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:00:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:00:35 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:00:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:00:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:00:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:00:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:00:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:06:41 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:06:42 [INFO] Root WebApplicationContext initialized in 1620 ms
+2022-02-08 18:06:42 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:06:46 [INFO] Completed initialization in 3332 ms
+2022-02-08 18:07:13 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:07:15 [INFO] Root WebApplicationContext initialized in 1546 ms
+2022-02-08 18:07:15 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:07:18 [INFO] Completed initialization in 3498 ms
+2022-02-08 18:08:00 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:08:01 [INFO] Root WebApplicationContext initialized in 1434 ms
+2022-02-08 18:08:01 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:08:05 [INFO] Completed initialization in 3276 ms
+2022-02-08 18:08:33 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:08:34 [INFO] Root WebApplicationContext initialized in 1443 ms
+2022-02-08 18:08:35 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:15:38 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:15:40 [INFO] Root WebApplicationContext initialized in 1880 ms
+2022-02-08 18:15:40 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:15:44 [INFO] Completed initialization in 3805 ms
+2022-02-08 18:15:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:15:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:15:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:15:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:15:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:15:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:15:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:16:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:16:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:16:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:16:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:17:23 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:17:25 [INFO] Root WebApplicationContext initialized in 1647 ms
+2022-02-08 18:17:25 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:17:28 [INFO] Completed initialization in 3314 ms
+2022-02-08 18:17:40 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:17:41 [INFO] Root WebApplicationContext initialized in 1804 ms
+2022-02-08 18:17:42 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:17:45 [INFO] Completed initialization in 3807 ms
+2022-02-08 18:17:46 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:17:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:17:48 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:17:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:17:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:18:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:18:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:18:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:18:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:21:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:21:45 [INFO] Root WebApplicationContext initialized in 1764 ms
+2022-02-08 18:21:45 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:21:49 [INFO] Completed initialization in 3618 ms
+2022-02-08 18:21:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:26:27 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:26:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 18:26:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 18:26:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardView()
+2022-02-08 18:27:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:27:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:28:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:28:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:28:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:28:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:28:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:28:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:28:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:28:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:29:23 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:29:24 [INFO] Root WebApplicationContext initialized in 1585 ms
+2022-02-08 18:29:24 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:29:28 [INFO] Completed initialization in 3272 ms
+2022-02-08 18:29:43 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:29:44 [INFO] Root WebApplicationContext initialized in 1543 ms
+2022-02-08 18:29:44 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:35:02 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:35:03 [INFO] Root WebApplicationContext initialized in 1960 ms
+2022-02-08 18:35:04 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:35:07 [INFO] Completed initialization in 3906 ms
+2022-02-08 18:35:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:35:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:35:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:35:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:35:16 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:35:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:35:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:35:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:35:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:35:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:35:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:36:33 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:36:35 [INFO] Root WebApplicationContext initialized in 1581 ms
+2022-02-08 18:36:35 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:36:38 [INFO] Completed initialization in 3320 ms
+2022-02-08 18:38:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:38:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:38:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:38:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:38:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:38:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:38:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:38:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:38:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:38:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:39:37 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:39:39 [INFO] Root WebApplicationContext initialized in 1557 ms
+2022-02-08 18:39:39 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:39:42 [INFO] Completed initialization in 3230 ms
+2022-02-08 18:39:57 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:39:58 [INFO] Root WebApplicationContext initialized in 1569 ms
+2022-02-08 18:39:58 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:40:02 [INFO] Completed initialization in 3339 ms
+2022-02-08 18:40:23 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:40:25 [INFO] Root WebApplicationContext initialized in 1855 ms
+2022-02-08 18:40:25 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:40:29 [INFO] Completed initialization in 3607 ms
+2022-02-08 18:40:29 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:40:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:40:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:40:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:40:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:40:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:40:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:40:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:40:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:42:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:42:03 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:42:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:42:13 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:42:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:42:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:43:04 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:43:11 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:43:13 [INFO] Root WebApplicationContext initialized in 1934 ms
+2022-02-08 18:43:13 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:43:17 [INFO] Completed initialization in 3933 ms
+2022-02-08 18:43:18 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:43:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:43:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:43:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:43:21 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:43:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:43:25 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:43:25 [INFO] [ip]127.0.0.1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:43:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:43:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:43:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:43:54 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:44:07 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:44:11 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:44:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:44:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.exceptionHandler()
+2022-02-08 18:49:23 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:49:24 [INFO] Root WebApplicationContext initialized in 1740 ms
+2022-02-08 18:49:24 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:49:28 [INFO] Completed initialization in 3399 ms
+2022-02-08 18:51:54 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:51:56 [INFO] Root WebApplicationContext initialized in 1867 ms
+2022-02-08 18:51:56 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:52:00 [INFO] Completed initialization in 3839 ms
+2022-02-08 18:52:00 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:52:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:52:09 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:52:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-02-08 18:52:12 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-02-08 18:52:14 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-02-08 18:52:20 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:52:22 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:52:33 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardInsert()
+2022-02-08 18:53:09 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:53:11 [INFO] Root WebApplicationContext initialized in 1920 ms
+2022-02-08 18:53:11 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:53:15 [INFO] Completed initialization in 3883 ms
+2022-02-08 18:53:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:53:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-02-08 18:54:48 [INFO] Root WebApplicationContext: initialization started
+2022-02-08 18:54:50 [INFO] Root WebApplicationContext initialized in 1816 ms
+2022-02-08 18:54:50 [INFO] Initializing Servlet 'appServlet'
+2022-02-08 18:54:54 [INFO] Completed initialization in 3892 ms

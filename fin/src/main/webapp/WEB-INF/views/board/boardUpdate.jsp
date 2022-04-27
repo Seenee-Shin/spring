@@ -64,7 +64,7 @@
 
 				
 				<%-- imgList에 존재하는 이미지의 레벨에 따라 변수 선언 --%>
-				<c:forEach items="${board.imgList}" var="img">
+				<c:forEach items="${board.imgList}" var="img" varStatus="">
 					<c:choose>
 						
 						<c:when test="${img.imgLevel == 0 }">

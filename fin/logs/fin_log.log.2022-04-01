@@ -1,0 +1,44 @@
+2022-04-01 13:22:15 [INFO] Root WebApplicationContext: initialization started
+2022-04-01 13:22:18 [INFO] Root WebApplicationContext initialized in 3133 ms
+2022-04-01 13:22:18 [INFO] Initializing Servlet 'appServlet'
+2022-04-01 13:23:44 [INFO] Root WebApplicationContext: initialization started
+2022-04-01 13:23:47 [INFO] Root WebApplicationContext initialized in 2632 ms
+2022-04-01 13:23:47 [INFO] Initializing Servlet 'appServlet'
+2022-04-01 13:23:53 [INFO] Completed initialization in 5350 ms
+2022-04-01 13:24:18 [INFO] Root WebApplicationContext: initialization started
+2022-04-01 13:24:21 [INFO] Root WebApplicationContext initialized in 2827 ms
+2022-04-01 13:24:21 [INFO] Initializing Servlet 'appServlet'
+2022-04-01 13:27:19 [INFO] Root WebApplicationContext: initialization started
+2022-04-01 13:27:22 [INFO] Root WebApplicationContext initialized in 3438 ms
+2022-04-01 13:27:22 [INFO] Initializing Servlet 'appServlet'
+2022-04-01 13:27:30 [INFO] Completed initialization in 7908 ms
+2022-04-01 13:27:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-01 13:27:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestController.selftestForm()
+2022-04-01 13:27:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-01 13:27:49 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-04-01 13:27:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]PopupController.layerPopup()
+2022-04-01 13:27:52 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]EmailLoginController.emailLogin()
+2022-04-01 13:27:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-01 13:27:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestController.selftestForm()
+2022-04-01 13:27:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:02 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:26 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:47 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:53 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:55 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:28:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:29:01 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:29:04 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:29:06 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:29:08 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:29:10 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]SelftestRestController.selftestForm()
+2022-04-01 13:31:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-01 13:31:17 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-01 13:31:23 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.SecretView()
+2022-04-01 13:31:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-01 13:31:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()

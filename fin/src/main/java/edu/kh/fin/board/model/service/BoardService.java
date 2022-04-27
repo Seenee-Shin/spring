@@ -16,7 +16,6 @@ import edu.kh.fin.board.model.vo.Search;
 //3.결합도 
 //4.AOP사용 -spring에서 인터페이스를 사용하는 이유
 
-@Service //Bean등록, 서비스 명시
 public interface BoardService  {
 
 	Pagination getPagination(int cp);

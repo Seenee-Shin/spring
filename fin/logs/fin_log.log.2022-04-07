@@ -1,0 +1,48 @@
+2022-04-07 22:03:54 [INFO] Root WebApplicationContext: initialization started
+2022-04-07 22:03:57 [INFO] Root WebApplicationContext initialized in 3047 ms
+2022-04-07 22:03:58 [INFO] Initializing Servlet 'appServlet'
+2022-04-07 22:04:03 [INFO] Completed initialization in 4971 ms
+2022-04-07 22:04:08 [INFO] Root WebApplicationContext: initialization started
+2022-04-07 22:04:10 [INFO] Root WebApplicationContext initialized in 2373 ms
+2022-04-07 22:04:10 [INFO] Initializing Servlet 'appServlet'
+2022-04-07 22:04:14 [INFO] Completed initialization in 4118 ms
+2022-04-07 23:22:18 [INFO] Root WebApplicationContext: initialization started
+2022-04-07 23:22:22 [INFO] Root WebApplicationContext initialized in 3224 ms
+2022-04-07 23:22:22 [INFO] Initializing Servlet 'appServlet'
+2022-04-07 23:22:28 [INFO] Completed initialization in 5848 ms
+2022-04-07 23:22:28 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-07 23:22:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proList()
+2022-04-07 23:22:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-04-07 23:22:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()
+2022-04-07 23:22:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-04-07 23:22:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()
+2022-04-07 23:22:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-04-07 23:22:40 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()
+2022-04-07 23:22:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-04-07 23:22:41 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()
+2022-04-07 23:22:42 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-07 23:22:43 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:22:44 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:22:45 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:24:15 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-07 23:24:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-07 23:24:18 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:24:19 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:55:43 [INFO] Root WebApplicationContext: initialization started
+2022-04-07 23:55:45 [INFO] Root WebApplicationContext initialized in 2439 ms
+2022-04-07 23:55:45 [INFO] Initializing Servlet 'appServlet'
+2022-04-07 23:55:50 [INFO] Completed initialization in 4673 ms
+2022-04-07 23:55:51 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-07 23:55:56 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-07 23:55:57 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-07 23:55:58 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:55:59 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]HomeController.home()
+2022-04-07 23:56:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardinsert()
+2022-04-07 23:56:31 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:56:32 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:56:34 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]FreeBoardController.freeBoardList()
+2022-04-07 23:56:36 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]WorryBoardController.worryBoard()
+2022-04-07 23:56:37 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]WorryBoardController.worryList()
+2022-04-07 23:56:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proList()
+2022-04-07 23:56:38 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.proCategory()
+2022-04-07 23:56:39 [INFO] [ip]0:0:0:0:0:0:0:1 [Controller]ProController.setCategory()

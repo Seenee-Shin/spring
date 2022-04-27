@@ -62,9 +62,9 @@
    		multipart file 객체로 반환, 나머지 parameter는 기존 객체로 사용 
    -->
    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-   		<property name="maxUploadSize" value="104857600"/>
-   		<property name="maxUploadSizePerFile" value="104857600"/>
-   		<property name="maxInMemorySize" value="104857600"/>
+   		<property name="maxUploadSize" value="10485760"/>
+   		<property name="maxUploadSizePerFile" value="10485760"/>
+   		<property name="maxInMemorySize" value="10485760"/>
    		
    		<!-- 
    		maxUploadSize : 한개의 요청 당 혀용되는 최대 용량 제한 (byte 단위, -1:무제한 (기본값))

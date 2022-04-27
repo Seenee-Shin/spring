@@ -11,7 +11,7 @@ public interface ReplyService {
 	 * @param boardNo
 	 * @return rList
 	 */
-	List<Reply> selectList(int boardNo);
+	//List<Reply> selectList(int boardNo);
 
 	/** 댓글 삽입
 	 * @param reply

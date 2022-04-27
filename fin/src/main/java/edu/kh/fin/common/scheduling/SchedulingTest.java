@@ -51,6 +51,6 @@ public class SchedulingTest {
 	public void test() {
 //		System.out.println("스프링스프링");
 		
-		List<Reply> rList = replyService.selectList(561);
+		//List<Reply> rList = replyService.selectList(561);
 	}
 }
